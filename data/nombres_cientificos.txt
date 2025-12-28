@@ -1,0 +1,3321 @@
+Acanthus mollis L.
+Dicliptera peduncularis Nees
+Hypoestes phyllostachya Baker
+Justicia brandegeeana Wassh. & L.B.Sm.
+Justicia carnea Lindl.
+Justicia secunda Vahl
+Megaskepasma erythrochlamys Lindau
+Pachystachys lutea Nees
+Ruellia blechum L.
+Stenandrium dulce (Cav.) Nees
+Stenostephanus sanguineus (Nees) Wassh.
+Thunbergia alata Sims
+Thunbergia grandiflora (Rottl.) Roxb.
+Saurauia isoxanthotricha Buscal.
+Saurauia scabra (Kunth) D.Dietr.
+Saurauia ursina Triana & Planch.
+Aptenia cordifolia (L.fil.) Schwant.
+Carpobrotus acinaciformis (L.) L.Bolus
+Carpobrotus edulis (L.) N.E.Br.
+Delosperma cooperi (Hook.f.) L.Bolus
+Lampranthus aureus (L.) N.E.Br.
+Lampranthus multiradiatus (Jacq.) N.E.Br.
+Lampranthus roseus Schwantes
+Lampranthus spectabilis (Haw.) N.E. Br.
+Malephora crocea (Jacq.) Schwantes
+Oscularia deltoides (L.) Schwant.
+Limnocharis flava (L.) Buchenau
+Sagittaria subulata (L.) Buchenau
+Alstroemeria aurea Graham
+Alstroemeria ligtu L.
+Alstroemeria 'Mirella'
+Bomarea andreana Baker
+Bomarea hirsuta (Kunth) Herb.
+Bomarea hispida Baker
+Bomarea lancifolia Baker
+Bomarea linifolia (Kunth) Baker
+Bomarea multiflora (L.f.) Mirb.
+Bomarea patinii Baker
+Bomarea pauciflora (Kunth) Herb.
+Bomarea setacea (Ruiz & Pav.) Herb.
+Bomarea vestita Baker
+Liquidambar styraciflua L.
+Alternanthera bettzickiana (Regel) G.Nicholson
+Alternanthera brasiliana (L.) Kuntze
+Alternanthera caracasana Kunth
+Alternanthera elongata (Willd.) Schinz
+Alternanthera ficoidea (L.) P.Beauv.
+Alternanthera halimifolia (Lam.) Standl. ex Pittier
+Alternanthera lanceolata (Benth.) Schinz
+Alternanthera polygonoides (L.) R.Br.
+Alternanthera porrigens (Jacq.) Kuntze
+Alternanthera pubiflora (Benth.) Kuntze
+Alternanthera pungens Kunth
+Amaranthus blitum L.
+Amaranthus caudatus L.
+Amaranthus dubius Mart. ex Thell.
+Amaranthus hybridus L.
+Amaranthus hypochondriacus L.
+Beta vulgaris L.
+Celosia argentea L.
+Chamissoa altissima (Jacq.) Kunth
+Chenopodiastrum murale (L.) S. Fuentes, Uotila & Borsch
+Chenopodium album L.
+Chenopodium murale L.
+Chenopodium petiolare Kunth
+Chenopodium quinoa Willd.
+Dysphania ambrosioides (L.) Mosyakin & Clemants
+Gomphrena globosa L.
+Iresine diffusa Willd.
+Iresine herbstii Hook.
+Pfaffia iresinoides (Kunth) Spreng.
+Spinacia oleracea L.
+Agapanthus africanus (L.) Hoffmanns.
+Agapanthus praecox Willd.
+Allium ampeloprasum L.
+Allium cepa L.
+Allium fistulosum L.
+Allium roseum L.
+Allium sativum L.
+Allium schoenoprasum L.
+Clivia miniata (Lindl.) Bosse
+Crinum × powellii Baker
+Eucharis amazonica Linden ex Planch.
+Habranthus tubispathus (L'Hér.) Traub
+Hippeastrum vittatum (L'Hér.) Herb.
+Ipheion uniflorum (Lindl.) Raf.
+Leucojum aestivum L.
+Nothoscordum gracile (Aiton) Stearn
+Tulbaghia alliacea L.f.
+Tulbaghia simmleri Beauverd
+Tulbaghia violacea Harv.
+Zephyranthes albiella Traub
+Zephyranthes carinata Herb.
+Zephyranthes rosea Lindl.
+Mauria heterophylla Kunth
+Schinus areira L.
+Schinus molle L.
+Schinus terebinthifolia Raddi
+Annona cherimola Mill.
+Anethum graveolens L.
+Apium graveolens L.
+Arracacia colombiana Constance & Affolter
+Arracacia elata H.Wolff
+Arracacia xanthorrhiza Bancr.
+Azorella corymbosa (Ruiz & Pav.) Pers.
+Azorella crenata (Ruiz & Pav.) Pers.
+Azorella cuatrecasasii Mathias & Constance
+Azorella multifida (Ruiz & Pav.) Pers.
+Chaerophyllum andicola (Kunth) K.F.Chung
+Conium maculatum L.
+Coriandrum sativum L.
+Cyclospermum leptophyllum (Pers.) Sprague
+Daucus carota L.
+Daucus montanus Schult.
+Eryngium alpinum L.
+Eryngium ebracteatum Lam.
+Eryngium foetidum L.
+Eryngium humboldtii F.Delaroche
+Eryngium humile Cav.
+Foeniculum vulgare Mill.
+Lilaeopsis schaffneriana (Schltdl.) J.M.Coult. & Rose
+Myrrhidendron glaucescens (Benth.) J.M.Coult. & Rose
+Neonelsonia acuminata (Benth.) J.M.Coult. & Rose
+Niphogeton chirripoi (Suess.) Mathias & Constance
+Niphogeton cleefii Mathias & Constance
+Niphogeton dissecta (Benth.) J.F.Macbr.
+Niphogeton glaucescens (Kunth) J.F.Macbr.
+Niphogeton lingula (Wedd.) Mathias & Constance
+Niphogeton ternata (Schult.) Mathias & Constance
+Oreomyrrhis andicola (Kunth) Endl. ex Hook. f.
+Petroselinum crispum (Mill.) Fuss
+Allamanda blanchetii A.DC.
+Allamanda cathartica L.
+Asclepias curassavica L.
+Catharanthus roseus (L.) G.Don
+Cynanchum pachyphyllum (Decne.) K.Schum.
+Cynanchum trianae Morillo
+Ditassa caucana Pittier
+Ditassa longiloba Benth.
+Hoya carnosa (L.f.) R.Br.
+Mandevilla bogotensis (Kunth) Woodson
+Mandevilla congesta (Kunth) Woodson
+Mandevilla subsagittata (Ruiz & Pav.) Woodson
+Matelea mutisiana Morillo
+Metastelma parviflorum (Sw.) Schult.
+Nerium oleander L.
+Orthosia scoparia (Nutt.) Liede & Meve
+Orthosia stenophylla Schltr.
+Scyphostelma rugosa (Turcz.) Morillo
+Scyphostelma rugosum (Turcz.) Morillo
+Scyphostelma serpyllifolium (Kunth) Liede & Meve
+Scyphostelma tenellum (L.fil.) Liede & Meve
+Vinca major L.
+Vinca minor L.
+Ilex kunthiana Triana
+Ilex nervosa Triana & Planch.
+Ilex obtusata Triana & Planch.
+Ilex pernervata Cuatrec.
+Aglaonema commutatum Schott
+Anthurium andraeanum Linden ex André
+Anthurium bogotense Schott
+Anthurium buganum Engl.
+Anthurium lehmannii Engl.
+Anthurium macarenense R.E.Schult. & Idrobo
+Anthurium nigrescens Engl.
+Anthurium oxybelium Schott
+Anthurium quinquenervium (Kunth) Kunth
+Colocasia esculenta (L.) Schott
+Dieffenbachia seguine (Jacq.) Schott
+Lemna gibba L.
+Lemna minor L.
+Lemna minuta Kunth
+Monstera deliciosa Liebm.
+Philodendron bipinnatifidum Schott ex Endl.
+Philodendron leyvae García-Barr.
+Spathiphyllum cannifolium (Sims) Schott
+Spirodela polyrhiza (L.) Schleid.
+Spirodela punctata (G.Mey.) C.H.Thomps.
+Syngonium podophyllum Schott
+Wolffia brasiliensis Wedd.
+Wolffia columbiana H.Karst.
+Wolffiella oblonga (Phil.) Hegelm.
+Zantedeschia aethiopica (L.) Spreng.
+Fatsia japonica (Thunb.) Decne. & Planch.
+Hedera helix L.
+Hydrocotyle andina Cuatrec.
+Hydrocotyle bonplandii A.Rich.
+Hydrocotyle gunnerifolia Wedd.
+Hydrocotyle hederacea Mathias
+Hydrocotyle humboldtii A.Rich.
+Hydrocotyle leucocephala Cham. & Schltdl.
+Hydrocotyle mexicana Schltdl. & Cham.
+Hydrocotyle minutifolia Rose
+Hydrocotyle multifida A.Rich.
+Hydrocotyle ranunculoides L.f.
+Hydrocotyle tenerrima Mathias
+Hydrocotyle verticillata Thunb.
+Oreopanax bogotensis Cuatrec.
+Oreopanax capitatus (Jacq.) Decne. & Planch.
+Oreopanax catalpifolius (Willd. ex Schult.) Decne. & Planch.
+Oreopanax ellsworthii Cuatrec.
+Oreopanax incisus (Schult.) Decne. & Planch.
+Oreopanax mutisianus (Kunth) Decne. & Planch.
+Plerandra elegantissima (Veitch ex Mast.) Lowry, G.M. Plunkett & Frodin
+Polyscias scutellaria (Burm.f.) Fosberg
+Schefflera actinophylla (Endl.) Harms
+Schefflera arboricola (Hayata) Merr.
+Schefflera bogotensis Cuatrec.
+Schefflera heterotricha (Seem.) R.Vig.
+Sciodaphyllum bogotense (Cuatrec.) Lowry, G.M. Plunkett & M.M. Mora
+Sciodaphyllum heterotrichum Seem
+Tetrapanax papyrifer (Hook.) K.Koch
+Archontophoenix alexandrae (F.Muell.) H.Wendl. & Drude
+Archontophoenix cunninghamiana (H.Wendl.) H.Wendl. & Drude
+Ceroxylon quindiuense (H.Karst.) H.Wendl.
+Ceroxylon vogelianum (Engel) H. Wendl.
+Chamaedorea ernesti-augusti H.Wendl.
+Dypsis lutescens (H.Wendl.) Beentje & J.Dransf.
+Geonoma undata Klotzsch
+Parajubaea cocoides Burret
+Phoenix canariensis Chabaud
+Phoenix dactylifera L.
+Phoenix reclinata Jacq.
+Phoenix roebelenii O'Brien
+Washingtonia filifera (André) de Bary
+Aristolochia elegans Mast.
+Aristolochia grandiflora Sw.
+Aristolochia maxima Jacq.
+Agave americana L.
+Agave attenuata Salm-Dyck
+Albuca bracteata (Thunb.) J.C.Manning & Goldblatt
+Asparagus aethiopicus L.
+Asparagus densiflorus (Kunth) Jessop
+Asparagus setaceus (Kunth) Jessop
+Chlorophytum comosum (Thunb.) Jacques
+Cordyline australis Hook.f.
+Cordyline fruticosa (L.) A.Chev.
+Dracaena fragrans (L.) Ker Gawl.
+Dracaena reflexa Lam.
+Dracaena sanderiana Mast.
+Echeandia flavescens (Schult. & Schult. f.) Cruden
+Furcraea acaulis (Kunth) B.Ullrich
+Furcraea cabuya Trel.
+Furcraea hexapetala (Jacq.) Urb.
+Furcraea selloa K.Koch
+Ornithogalum thyrsoides Jacq.
+Polianthes tuberosa L.
+Ruscus hypoglossum L.
+Yucca brevifolia Engelm.
+Yucca gigantea Lem.
+Aloe arborescens Mill.
+Aloe vera (L.) Burm.f.
+Haworthiopsis fasciata (Willd.) G.D.Rowley
+Hemerocallis citrina Baroni
+Hemerocallis flava (L.) L.
+Hemerocallis fulva (L.) L.
+Hemerocallis lilioasphodelus L.
+Kniphofia uvaria (L.) Oken
+Phormium tenax J.R.Forst. & G.Forst.
+Achillea millefolium L.
+Achyrocline alata (Kunth) DC.
+Achyrocline bogotensis (Kunth) DC.
+Achyrocline crassiceps S.F.Blake
+Achyrocline lehmannii Hieron.
+Achyrocline mollis Benth.
+Achyrocline saturejoides (Lam.) DC.
+Achyrocline tomentosa Rusby
+Achyrocline trianae Klatt
+Acmella brachyglossa Cass.
+Acmella ciliata (Kunth) Cass.
+Acmella oppositifolia (Lam.) R.K.Jansen
+Acmella uliginosa (Sw.) Cass.
+Ageratina ampla (Benth.) R.M.King & H.Rob.
+Ageratina angustifolia (Kunth) R.M. King & H. Rob.
+Ageratina apollinairei (B.L.Rob.) R.M.King & H.Rob.
+Ageratina arbutifolia (Benth.) R.M.King & H.Rob.
+Ageratina aristei (B.L.Rob.) R.M.King & H.Rob.
+Ageratina asclepiadea (L.f.) R.M.King & H.Rob.
+Ageratina baccharoides (Kunth) R.M.King & H.Rob.
+Ageratina boyacensis R.M.King & H.Rob.
+Ageratina elegans (Kunth) R.M.King & H.Rob.
+Ageratina fastigiata (Kunth) R.M.King & H.Rob.
+Ageratina flaviseta (B.L.Rob.) R.M.King & H.Rob.
+Ageratina glyptophlebia (B.L.Rob.) R.M.King & H.Rob.
+Ageratina gracilis (Kunth) R.M.King & H.Rob.
+Ageratina gynoxoides (Wedd.) R.M.King & H.Rob.
+Ageratina latipes (Benth.) R.M.King & H.Rob.
+Ageratina popayanensis (Hieron.) R.M.King & H.Rob.
+Ageratina pseudochilca (Benth.) R.M.King & H.Rob.
+Ageratina psilodora (B.L.Rob.) R.M.King & H.Rob.
+Ageratina theifolia (Benth.) R.M.King & H.Rob.
+Ageratina tinifolia (Kunth) R.M.King & H.Rob.
+Ageratina vacciniifolia (Benth.) R.M.King & H.Rob.
+Ageratum conyzoides L.
+Ageratum houstonianum Mill.
+Alloispermum caracasanum (Kunth) H.Rob.
+Alloispermum pachensis (Hieron.) H.Rob.
+Alloispermum steyermarkii H.Rob.
+Ambrosia arborescens Mill.
+Ambrosia peruviana Willd.
+Aphanactis cocuyensis Cuatrec.
+Aphanactis piloselloides Cuatrec.
+Arctium lappa L.
+Argyranthemum frutescens (L.) Sch.Bip.
+Artemisia absinthium L.
+Artemisia dracunculus L.
+Artemisia vulgaris L.
+Asplundianthus arcuans (B.L.Rob.) R.M.King & H.Rob.
+Asplundianthus densus (Benth.) R.M.King & H.Rob.
+Asplundianthus pseudostuebelii R.M.King & H.Rob.
+Aster amellus L.
+Baccharis bogotensis Kunth
+Baccharis boyacensis Cuatrec.
+Baccharis breviseta DC.
+Baccharis buxifolia (Lam.) Pers.
+Baccharis caespitosa (Ruiz & Pav.) Pers.
+Baccharis latifolia (Ruiz & Pav.) Pers.
+Baccharis lehmannii Klatt
+Baccharis linearifolia (Lam.) Pers.
+Baccharis macrantha Kunth
+Baccharis nitida (Ruiz & Pav.) Pers.
+Baccharis oblongifolia (Ruiz & Pav.) Pers.
+Baccharis odorata Kunth
+Baccharis prunifolia Kunth
+Baccharis revoluta Kunth
+Baccharis rupicola Kunth
+Baccharis salicifolia (Ruiz & Pav.) Pers.
+Baccharis teindalensis Kunth
+Baccharis tricuneata (L.f.) Pers.
+Baccharis trinervis Pers.
+Baccharis vacciniifolia Cuatrec.
+Barnadesia spinosa L.f.
+Bellis perennis L.
+Belloa radians (Benth.) Sagást. & M.O.Dillon
+Bidens alba (L.) DC.
+Bidens andicola Kunth
+Bidens bipinnata L.
+Bidens cynapiifolia Kunth
+Bidens holwayi Sherff & S.F.Blake
+Bidens laevis (L.) Britt., Sterns & Poggenb.
+Bidens pilosa L.
+Bidens reptans (L.) G.Don
+Bidens rubifolia Kunth
+Bidens tenera O.E.Schulz
+Bidens triplinervia Kunth
+Calea peruviana Benth. ex S.F.Blake
+Calendula officinalis L.
+Carthamus tinctorius L.
+Centaurea cyanus L.
+Chamaemelum nobile (L.) All.
+Chaptalia exscapa (Pers.) Baker
+Chromolaena bullata (Klatt) R.M.King & H.Rob.
+Chromolaena leivensis (Hieron.) R.M.King & H.Rob.
+Chromolaena moritziana (Hieron.) R.M.King & H.Rob.
+Chromolaena odorata (L.) R.M. King & H. Rob.
+Chromolaena perglabra (B.L.Rob.) R.M.King & H.Rob.
+Chromolaena scabra (L.f.) R.M.King & H.Rob.
+Chromolaena tacotana (Klatt) R.M.King & H.Rob.
+Chrysanthemum indicum L.
+Chrysanthemum morifolium Ramat.
+Chryselium gnaphalioides (Kunth) Urtubey & S.E. Freire
+Cineraria tomentolanata Govaerts
+Cirsium echinatum (Desf.) DC.
+Cirsium vulgare (Savi) Ten.
+Clibadium trianae (Hieron.) S.F.Blake
+Condylidium iresinoides (Kunth) R.M.King & H.Rob.
+Conyza bonariensis (L.) Cronquist
+Conyza canadensis (L.) Cronquist
+Conyza popayanensis (Hieron.) Pruski
+Conyza sumatrensis (Retz.) E. Walker
+Conyza uliginosa Pers.
+Coreopsis grandiflora Hogg ex Sweet
+Cosmos bipinnatus Cav.
+Cotula australis (Spreng.) Hook.f.
+Cotula coronopifolia L.
+Cotula mexicana (DC.) Cabrera
+Crepis capillaris (L.) Wallr.
+Critoniella acuminata (Kunth) R.M. King & H. Rob.
+Critoniopsis bogotana (Cuatrec.) H.Rob.
+Critoniopsis lindenii Sch.Bip.
+Critoniopsis pycnantha (Benth.) H. Rob.
+Culcitium canescens Bonpl.
+Cynara cardunculus L.
+Dahlia imperialis Ortgies
+Dahlia pinnata Cav.
+Delairea odorata Lem.
+Dimorphotheca ecklonis DC.
+Dimorphotheca fruticosa (L.) DC.
+Dimorphotheca jucunda E.Phillips
+Emilia coccinea (Sims) G.Don
+Erato vulcanica (Klatt) H.Rob.
+Erechtites glomeratus (Desf. ex Poir.) DC.
+Erechtites valerianifolius (Link ex Spreng.) DC.
+Erigeron bonariensis L.
+Erigeron canadensis L.
+Erigeron chionophilus Wedd.
+Erigeron columnaris G.L.Nesom
+Erigeron karvinskianus DC.
+Erigeron popayanensis Hieron.
+Erigeron primulifolius (Lam.) Greuter
+Erigeron sumatrensis Retz.
+Erigeron trihecatactis Blake
+Erigeron uliginosus Benth.
+Espeletia × verdeana Cuatrec.
+Espeletia argentea Humb. & Bonpl.
+Espeletia barclayana Cuatrec.
+Espeletia cabrerensis Cuatrec.
+Espeletia cayetana (Cuatrec.) Cuatrec.
+Espeletia chocontana Cuatrec.
+Espeletia corymbosa Bonpl.
+Espeletia grandiflora Humb. & Bonpl.
+Espeletia killipii Cuatrec.
+Espeletia miradorensis (Cuatrec.) Cuatrec.
+Espeletia summapacis Cuatrec.
+Espeletia uribei Cuatrec.
+Espeletiopsis bogotensis (Cuatrec.) Cuatrec.
+Espeletiopsis corymbosa (Humb. & Bonpl.) Cuatrec.
+Espeletiopsis pleiochasia (Cuatrec.) Cuatrec.
+Fleischmannia granatensis R.M.King & H.Rob.
+Fleischmannia klattiana (Hieron.) R.M.King & H.Rob.
+Fleischmannia pycnocephala (Less.) R.M.King & H.Rob.
+Gaillardia pulchella Foug.
+Galinsoga parviflora Cav.
+Galinsoga quadriradiata Ruiz & Pav.
+Gamochaeta americana (Mill.) Wedd.
+Gamochaeta coarctata (Willd.) Kerguélen
+Gamochaeta purpurea (L.) Cabrera
+Gazania krebsiana Less.
+Gazania linearis (Thunb.) Druce
+Gazania pectinata (Thunb.) Spreng.
+Gazania rigens (L.) Gaertn.
+Gerbera jamesonii Hook.f.
+Glebionis coronaria (L.) Cass. ex Spach
+Gnaphalium purpureum L.
+Gynoxys buxifolia (Kunth) Cass.
+Gynoxys fuliginosa (Kunth) Cass.
+Gynoxys hirsuta Wedd.
+Gynoxys hirsutissima Cuatrec.
+Gynoxys subcinerea Cuatrec.
+Gynoxys subhirsuta Cuatrec.
+Gynoxys tolimensis Cuatrec.
+Gynoxys trianae Hieron.
+Hebeclinium sericeum (Kunth) R.M.King & H.Rob.
+Helianthus annuus L.
+Helichrysum petiolare Hilliard & B.L.Burtt
+Heliopsis buphthalmoides (Jacq.) Dunal
+Heliopsis lanceolata S.F.Blake
+Heterosperma achaetum S.F.Blake
+Heterosperma diversifolium Kunth
+Heterosperma pinnatum Cav.
+Hieracium avilae Kunth
+Hieracium avilae  Kunth
+Hieracium jubatum Fr.
+Hieracium sodiroanum Zahn
+Hypochaeris chillensis (Kunth) Britton
+Hypochaeris radicata L.
+Hypochaeris sessiliflora Kunth
+Hypochaeris sonchoides Kunth
+Hypochaeris taraxacoides (Meyen & Walp.) Ball
+Jacobaea maritima (L.) Pelser & Meijden
+Jaegeria axillaris S.F.Blake
+Jaegeria hirta (Lag.) Less.
+Jungia coarctata Hieron.
+Jungia ferruginea L.f.
+Jungia paniculata (DC.) A.Gray
+Lactuca sativa L.
+Laennecia filaginoides DC.
+Laennecia gnaphalioides (Kunth) Cass.
+Laestadia muscicola Wedd.
+Laestadia pinifolia Kunth ex Less.
+Lasiocephalus otophorus (Wedd.) Cuatrec.
+Lepidaploa canescens (Kunth) Cass.
+Lepidaploa karstenii (Sch.Bip.) H.Rob.
+Lepidaploa trilectorum (Gleason) H.Rob.
+Leucanthemum maximum (Ramond) DC.
+Leucanthemum vulgare (Vaill.) Lam.
+Liatris spicata (L.) Willd.
+Libanothamnus spectabilis  (Cuatrec.) Cuatrec
+Linochilus alveolatus (Cuatrec.) Saldivia & O.M.Vargas
+Linochilus floribundus Bentham
+Linochilus fosbergii (Cuatrec.) Saldivia & O.M.Vargas
+Linochilus heterophyllus (Cuatrec.) Saldivia & O.M.Vargas
+Linochilus huertasii (Cuatrec.) Saldivia & O.M.Vargas
+Linochilus ochraceus (Kunth) Saldivia & O.M.Vargas
+Linochilus phylicoides (Kunth) Saldivia & O.M.Vargas
+Linochilus revolutus (S.F.Blake) Saldivia & O.M.Vargas
+Linochilus rhomboidalis (Cuatrec.) Saldivia & O.M.Vargas
+Linochilus rosmarinifolius Bentham
+Linochilus rupestris (Kunth) Saldivia & O.M.Vargas
+Linochilus schultzii (Wedd.) Saldivia & O.M.Vargas
+Linochilus tenuifolius (Cuatrec.) Saldivia & O.M.Vargas
+Llerasia lindenii Triana
+Loricaria complanata (Sch.Bip.) Wedd.
+Lourteigia ballotifolia (Kunth) R.M.King & H.Rob.
+Lourteigia dichroa (B.L.Rob.) R.M.King & H.Rob.
+Lourteigia humilis (Benth.) R.M.King & H.Rob.
+Lourteigia lanulata (B.L.Rob.) R.M.King & H.Rob.
+Lourteigia microphylla (L.f.) R.M.King & H.Rob.
+Lourteigia stoechadifolia (L.f.) R.M.King & H.Rob.
+Lucilia kunthiana (DC.) Zardini
+Matricaria chamomilla L.
+Mikania aristei B.L.Rob.
+Mikania banisteriae DC.
+Mikania granulata B.L.Rob.
+Mikania laurifolia (L.f.) Willd.
+Mikania lehmannii Hieron.
+Mikania rufa Benth.
+Mikania stuebelii Hieron.
+Mikania sylvatica Klatt
+Mniodes radians (Benth.) S.E.Freire, Chemisquy, Anderb. & Urtubey
+Montanoa ovalifolia DC.
+Montanoa quadrangularis Sch.Bip.
+Monticalia abietina (Willd. ex Wedd.) C.Jeffrey
+Monticalia andicola (Turcz.) C.Jeffrey
+Monticalia corymbosa (Benth.) C.Jeffrey
+Monticalia flosfragrans (Cuatrec.) C.Jeffrey
+Monticalia guadalupe (Cuatrec.) C.Jeffrey
+Monticalia ledifolia (Kunth) C.Jeffrey
+Monticalia lindenii (Sch.Bip. ex Wedd.) C.Jeffrey
+Monticalia nitida (Kunth) C.Jeffrey
+Monticalia pulchella (Kunth) C.Jeffrey
+Monticalia reissiana (Hieron.) C.Jeffrey
+Monticalia stuebelii (Hieron) C.Jeffrey
+Monticalia summapacis (Cuatrec.) B.Nord.
+Monticalia tolimensis (Cuatrec.) C.Jeffrey
+Monticalia trichopus (Benth.) C.Jeffrey
+Monticalia vaccinioides (Kunth) C.Jeffrey
+Monticalia vernicosa (Sch.Bip. ex Wedd.) C.Jeffrey
+Munnozia hastifolia (Poepp.) H.Rob. & Brettell
+Munnozia jussieui (Cass.) H.Rob. & Brettell
+Munnozia senecionidis Benth.
+Mutisia clematis L.f.
+Mutisia intermedia Hieron.
+Noticastrum marginatum (Kunth) Cuatrec.
+Oligactis sessiliflora (Kunth) H.Rob. & Brettell
+Oligactis volubilis (Kunth) Cass.
+Onoseris purpurata (L.f.) S.F.Blake
+Oritrophium limnophilum (Sch.Bip.) Cuatrec.
+Oritrophium peruvianum (Lam.) Cuatrec.
+Osteospermum ecklonis (DC.) Norl.
+Osteospermum fruticosum (L.) Norl.
+Oxylobus glandulifer (Sch.Bip. ex Hemsl.) A.Gray
+Pentacalia abietina (Willd. ex Wedd.) Cuatrec.
+Pentacalia americana (L.f.) Cuatrec.
+Pentacalia andicola (Turcz.) Cuatrec.
+Pentacalia arborea (Kunth) H.Rob. & Cuatrec.
+Pentacalia breviligulata (Hieron.) Cuatrec.
+Pentacalia corymbosa (Benth.) Cuatrec.
+Pentacalia flosfragrans (Cuatrec.) Cuatrec.
+Pentacalia guadalupe (Cuatrec.) Cuatrec.
+Pentacalia haughtii (Cuatrec.) Cuatrec.
+Pentacalia kleinioides (Kunth) Cuatrec.
+Pentacalia ledifolia (Kunth) Cuatrec.
+Pentacalia magnusii (Hieron.) Cuatrec.
+Pentacalia nitida (Kunth) Cuatrec.
+Pentacalia pulchella (Kunth) Cuatrec.
+Pentacalia reissiana (Hieron.) Cuatrec.
+Pentacalia theifolia (Benth.) Cuatrec.
+Pentacalia tolimensis (Sch. Bip. ex Wedd.) Cuatrec.
+Pentacalia trianae (Klatt) Cuatrec.
+Pentacalia vaccinioides (Kunth) Cuatrec.
+Pentacalia vernicosa (Sch. Bip. ex Wedd.) Cuatrec.
+Pentacalia weinmannifolia (Cuatrec.) Cuatrec.
+Pericallis cruenta (L'Hér.) Bolle
+Plagiocheilus bogotensis (Kunth) Wedd.
+Plagiocheilus ciliaris Wedd.
+Plagiocheilus soliviformis DC.
+Pseudognaphalium cheiranthifolium (Lam.) O.M.Hilliard & B.L.Burtt
+Pseudognaphalium domingense (Lam.) A.A.Anderberg
+Pseudognaphalium dysodes (Spreng.) S.E. Freire, N. Bayón & C. Monti
+Pseudognaphalium elegans (Kunth) Anderb.
+Pseudognaphalium gaudichaudianum (DC.) Anderb.
+Pseudognaphalium lanuginosum (Kunth) Anderb.
+Pseudognaphalium luteoalbum (L.) Hilliard & B.L.Burtt
+Pseudognaphalium meridanum (Aristeg.) A.A.Anderberg
+Pseudognaphalium paramorum (S.F.Blake) M.O.Dillon
+Pseudognaphalium viscosum (Kunth) Anderb.
+Psilactis brevilingulata Hemsl.
+Pterocaulon alopecuroides (Lam.) DC.
+Rhodanthe chlorocephala (Turcz.) Paul G.Wilson
+Rhodanthe manglesii Lindl.
+Sabazia acoma (S.F.Blake) Longpre
+Sabazia densa Longpre
+Sabazia trianae (Hieron.) Longpre
+Schistocarpha sinforosi Cuatrec.
+Schkuhria pinnata (Lam.) Thell.
+Scrobicaria ilicifolia (L.f.) B.Nord.
+Senecio canescens (Bonpl.) Cuatrec.
+Senecio carbonellii S.Díaz
+Senecio chionogeton Wedd.
+Senecio coccineus Klatt
+Senecio comosus Sch.Bip.
+Senecio formosissimus Cuatrec.
+Senecio formosoides Cuatrec.
+Senecio formosus Kunth
+Senecio garcibarrigae Cuatrec.
+Senecio guascensis Cuatrec.
+Senecio leucanthemoides Cuatrec.
+Senecio madagascariensis Poir.
+Senecio niveoaureus Cuatrec.
+Senecio otophorus Wedd.
+Senecio patens (Kunth) DC.
+Senecio repens DC.
+Senecio subruncinatus (Wedd.) Greenm.
+Senecio tamoides DC.
+Senecio vulgaris L.
+Senecio wedglacialis Cuatrec.
+Sigesbeckia jorullensis Kunth
+Sigesbeckia orientalis L.
+Silybum marianum (L.) Gaertn.
+Smallanthus pyramidalis (Triana) H.Rob.
+Smallanthus riparius (Kunth) H.Rob.
+Smallanthus sonchifolius (Poepp.) H.Rob.
+Soliva anthemifolia (Juss.) R.Br.
+Sonchus asper (L.) Hill
+Sonchus oleraceus (L.) L.
+Stevia elatior Kunth
+Stevia lucida Lag.
+Stevia monardifolia Kunth
+Stevia ovata Willd.
+Stevia pallida (Sch.Bip.) Hieron.
+Stevia serrata Cav.
+Symphyotrichum laeve (L.) Á.Löve & D.Löve
+Symphyotrichum squamatum (Spreng.) G.L.Nesom
+Symphyotrichum subulatum (Michx.) G.L.Nesom
+Tagetes erecta L.
+Tagetes filifolia Lag.
+Tagetes lucida Cav.
+Tagetes terniflora Kunth
+Tagetes zypaquirensis Bonpl.
+Tanacetum parthenium (L.) Sch.Bip.
+Taraxacum officinale F.H.Wigg.
+Tilesia baccata (L.) Pruski
+Tithonia diversifolia (Hemsl.) A.Gray
+Tragopogon dubius Scop.
+Tragopogon porrifolius L.
+Trixis inula Crantz
+Verbesina arborea Kunth
+Verbesina baccharidea S.F.Blake
+Verbesina centroboyacana S.Díaz
+Verbesina crassiramea S.F.Blake
+Verbesina elegans Kunth
+Verbesina humboldtii Spreng.
+Villanova oppositifolia Lag.
+Wedelia iners (S.F.Blake) Strother
+Werneria pygmaea Hook. & Arn.
+Xenophyllum humile (Kunth) V.A.Funk
+Xerochrysum bracteatum (Vent.) N.N.Tzvel.
+Corynaea crassa Hook.f.
+Langsdorffia hypogaea Mart.
+Impatiens balsamina L.
+Impatiens hawkeri W. Bull
+Impatiens sodenii Engl. & Warb.
+Impatiens walleriana Hook.f.
+Anredera baselloides (Kunth) Baill.
+Anredera brachystachys (Moq.) Sperling
+Anredera cordifolia (Ten.) Steenis
+Ullucus tuberosus Caldas
+Begonia bowerae Ziesenh.
+Begonia coccinea Hook.
+Begonia cornuta L.B.Sm. & B.G.Schub.
+Begonia cucullata Willd.
+Begonia ferruginea L.f.
+Begonia fischeri Schrank
+Begonia foliosa Kunth
+Begonia rex Putz.
+Begonia rosacea Putz.
+Begonia tropaeolifolia A.DC.
+Begonia urticae L.f.
+Berberis carrikerii L.A. Camargo
+Berberis carupensis Camargo
+Berberis glauca Kunth
+Berberis goudotii Triana & Planch.
+Berberis huertasii L.A. Camargo
+Berberis julianae C.K. Schneid.
+Berberis morana L.A. Camargo
+Berberis rigidifolia Kunth
+Berberis sumapazana L.A.Camargo
+Berberis tabiensis L.A.Camargo
+Berberis uribei L.A. Camargo
+Berberis vulgaris L.
+Alnus acuminata Kunth
+Delostoma integrifolium D.Don
+Eccremocarpus viridis Ruiz & Pav.
+Handroanthus chrysanthus (Jacq.) S.O. Grose
+Handroanthus ochraceus (Cham.) Mattos
+Jacaranda caucana Pittier
+Pyrostegia venusta (Ker Gawl.) Miers
+Tecoma capensis (Thunb.) Lindl.
+Tecoma stans (L.) Kunth
+Borago officinalis L.
+Cynoglossum amabile Stapf & J.R.Drumm.
+Hackelia mexicana (Schltdl. & Cham.) I.M.Johnst.
+Hackelia revoluta (Ruiz & Pav.) I.M.Johnst.
+Lithospermum mediale I.M.Johnst.
+Moritzia lindenii (A.DC.) Gürke
+Myosotis alpestris F.W.Schmidt
+Myosotis azorica H.C.Watson
+Selkirkia trianaeum (Wedd.) Holstein & Weigend
+Symphytum officinale L.
+Tournefortia macrostachya Rusby
+Barbarea verna (Mill.) Asch.
+Brassica juncea (L.) Czern.
+Brassica napus L.
+Brassica nigra (L.) K.Koch
+Brassica oleracea L.
+Brassica rapa L.
+Capsella bursa-pastoris (L.) Medik.
+Cardamine alberti O.E.Schulz
+Cardamine bonariensis Pers.
+Cardamine flexuosa With.
+Cardamine hirsuta L.
+Cardamine ovata Benth.
+Descurainia myriophylla (Willd.) R.E.Fr.
+Draba cuatrecasasiana J.O.Rangel & Santana
+Draba rositae Santana & J.O.Rangel
+Draba sericea Santana & J.O.Rangel
+Eruca vesicaria (L.) Cav.
+Erysimum cheiri (L.) Crantz
+Exhalimolobos hispidulus (DC.) Al-Shehbaz & C.D.Bailey
+Exhalimolobos weddellii (E.Fourn.) Al-Shehbaz & C.D.Bailey
+Iberis amara L.
+Iberis semperflorens L.
+Iberis umbellata L.
+Lepidium bipinnatifidum Desv.
+Lepidium costaricense Thell.
+Lepidium didymum L.
+Lepidium ruderale L.
+Lepidium sativum L.
+Lepidium trianae Thell.
+Lobularia maritima (L.) Desv.
+Lunaria annua L.
+Matthiola incana (L.) R.Br.
+Nasturtium officinale R.Br.
+Raphanus raphanistrum L.
+Raphanus sativus L.
+Rapistrum rugosum (L.) All.
+Rorippa dubia (Pers.) H.Hara
+Rorippa indica (L.) Hiern
+Rorippa mandonii (E.Fourn.) Mart.-Laborde
+Rorippa mexicana (DC.) Standl. & Steyerm.
+Rorippa nana (Schltdl.) J.F.Macbr.
+Rorippa palustris (L.) Besser
+Rorippa pinnata (Sessé & Moc.) Rollins
+Sinapis alba L.
+Sisymbrium officinale (L.) Scop.
+Thlaspi arvense L.
+Aechmea gamosepala Wittm.
+Aechmea pineliana (Brongn. ex Planch.) Baker
+Aechmea veitchii Baker
+Catopsis nutans (Sw.) Griseb.
+Greigia mulfordii L.B.Sm.
+Greigia sodiroana Mez
+Greigia stenolepis L.B.Sm.
+Guzmania gloriosa (André) Mez
+Guzmania mitis L.B.Sm.
+Guzmania sanguinea (André) Mez
+Guzmania squarrosa (Mez & Sodiro) L.B.Sm. & Pittendr.
+Guzmania triangularis L.B.Sm.
+Mezobromelia capituligera (Griseb.) J.R.Grant
+Neoregelia ampullacea (E. Morren) L.B.Sm.
+Neoregelia carolinae (Beer) L.B.Sm.
+Neoregelia pendula L.B. Sm.
+Pitcairnia petraea L.B.Sm.
+Pitcairnia pungens Kunth
+Pitcairnia trianae André
+Puya bicolor Mez
+Puya clava-herculis Mez & Sodiro
+Puya cryptantha Cuatrec.
+Puya floccosa (Linden) Mez
+Puya goudotiana Mez
+Puya lineata Mez
+Puya loca Madriñán
+Puya nitida Mez
+Puya santosii Cuatrec.
+Puya trianae Baker
+Racinaea penlandii (L.B.Sm.) M.A.Spencer & L.B.Sm.
+Racinaea riocreuxii (André) M.A.Spencer & L.B.Sm.
+Racinaea spiculosa (Griseb.) M.A.Spencer & L.B.Sm.
+Racinaea subalata (André) M.A.Spencer & L.B.Sm.
+Racinaea tenuispica (André) M.A.Spencer & L.B.Sm.
+Racinaea tetrantha (Ruiz & Pav.) M.A.Spencer & L.B.Sm.
+Tillandsia archeri L.B. Sm.
+Tillandsia argentea C.Koch
+Tillandsia biflora Ruiz & Pav.
+Tillandsia breviturneri Betancur & Néstor García
+Tillandsia buseri Mez
+Tillandsia cacticola L.B. Sm.
+Tillandsia caput-medusae E.Morren
+Tillandsia chartacea L.B.Sm.
+Tillandsia clavigera Mez
+Tillandsia compacta Griseb.
+Tillandsia complanata Benth.
+Tillandsia denudata André
+Tillandsia deppeana Steud.
+Tillandsia fendleri Griseb.
+Tillandsia fragrans André
+Tillandsia fusiformis L.B.Sm.
+Tillandsia incarnata Kunth
+Tillandsia ionantha Planch
+Tillandsia juncea (Ruiz & Pav.) Poir.
+Tillandsia longifolia Baker
+Tillandsia orbicularis L.B.Sm.
+Tillandsia pastensis André
+Tillandsia recurvata (L.) L.
+Tillandsia restrepoana André
+Tillandsia schultzei Harms
+Tillandsia stipitata L.B.Sm.
+Tillandsia suescana L.B.Sm.
+Tillandsia tovarensis Mez
+Tillandsia tricolor Schltdl. & Cham.
+Tillandsia turneri Baker
+Tillandsia usneoides (L.) L.
+Tillandsia xerographica Rohweder
+Vriesea erythrodactylon (E. Morren) E.Morren ex Mez
+Vriesea incurva (Griseb.) Read
+Vriesea pereziana (André) L.B.Sm.
+Vriesea rubrobracteata Rauh
+Vriesea scalaris E.Morren
+Vriesea tequendamae (André) L.B.Sm.
+Brunellia acutangula Bonpl.
+Brunellia comocladifolia Bonpl.
+Brunellia goudotii Tul.
+Brunellia propinqua Kunth
+Brunellia racemifera Tul.
+Brunellia sibundoya Cuatrec.
+Buxus microphylla Siebold & Zucc.
+Buxus sempervirens L.
+Styloceras laurifolium (Willd.) Kunth
+Austrocylindropuntia cylindrica (Lam.) Backeb.
+Disocactus ackermannii (Haw.) Ralf Bauer
+Echinopsis pachanoi (Britton & Rose) Friedrich & G.D.Rowley
+Opuntia ficus-indica (L.) Mill.
+Opuntia microdasys (Lehm.) Pfeiff.
+Opuntia pennellii Britton & Rose
+Opuntia pittieri Britton & Rose
+Opuntia schumannii A.Berger
+Parodia erinacea (Haw.) N.P.Taylor
+Parodia leninghausii (Haage) F.H. Brandt
+Schlumbergera truncata (Haw.) Moran
+Calceolaria bogotensis (Pennell) Pennell
+Calceolaria integrifolia L.
+Calceolaria lamiifolia Kunth
+Calceolaria mexicana Benth.
+Calceolaria microbefaria Kraenzl.
+Calceolaria perfoliata L.f.
+Calceolaria trilobata Hemsl.
+Calceolaria tripartita Ruiz & Pav.
+Chimonanthus praecox (L.)
+Burmeistera glabrata (Kunth) Benth. & Hook. f. ex B.D. Jacks.
+Centropogon ferrugineus (L. f.) Gleason
+Lobelia tenera Kunth
+Lysipomia laciniata A. DC.
+Lysipomia sphagnophila Griseb. ex Wedd.
+Siphocampylus benthamianus Walp.
+Siphocampylus brevicalyx E. Wimm.
+Siphocampylus columnae (L. f.) G. Don
+Siphocampylus purdieanus Planch.
+Siphocampylus retrorsus Vatke & E. Wimm.
+Cannabis sativa L.
+Trema micrantha (L.) Blume
+Canna glauca L.
+Canna indica L.
+Abelia × grandiflora (André) Rehder
+Centranthus ruber (L.) DC.
+Dipsacus fullonum L.
+Lonicera caprifolium L.
+Lonicera japonica Thunb.
+Sixalix atropurpurea (L.) Greuter & Burdet
+Valeriana arborea Killip & Cuatrec.
+Valeriana clematitis Kunth
+Valeriana crassifolia Kunth
+Valeriana laurifolia Kunth
+Valeriana oblongifolia Ruiz & Pav.
+Valeriana officinalis L.
+Valeriana pilosa Ruiz & Pav.
+Valeriana plantaginea Kunth
+Valeriana secunda B.Eriksen
+Valeriana sorbifolia Kunth
+Valeriana stenophylla Killip
+Valeriana triphylla Kunth
+Valeriana vetasana Killip
+Vasconcellea pubescens A.DC.
+Arenaria lanuginosa (Michx.) Rohrb.
+Arenaria musciformis Triana & Planch.
+Arenaria venezuelana Briq.
+Cardionema ramosissimum (Weinm.) A. Nelson & J.F. Macbr.
+Cerastium arvense L.
+Cerastium danguyi J.F.Macbr.
+Cerastium fontanum Baumg.
+Cerastium glomeratum Thuill.
+Cerastium imbricatum Kunth
+Cerastium kunthii Briq.
+Cerastium mollissimum Poir.
+Cerastium nutans Raf.
+Cerastium subspicatum Wedd.
+Cerastium trianae Briq.
+Colobanthus quitensis (Kunth) Bartl.
+Dianthus armeria L.
+Dianthus barbatus L.
+Dianthus caryophyllus L.
+Dianthus chinensis L.
+Dianthus gratianopolitanus Vill.
+Dianthus plumarius L.
+Drymaria cordata (L.) Schult.
+Drymaria gracilis Schltdl. & Cham.
+Drymaria villosa Schltdl. & Cham.
+Gypsophila elegans M.Bieb.
+Lychnis coronaria (L.) Desr.
+Paronychia bogotensis Triana & Planch.
+Sagina apetala Ard.
+Silene armeria L.
+Silene coronaria (L.) Clairv.
+Silene gallica L.
+Spergula arvensis L.
+Spergularia rubra (L.) J.Presl & C.Presl
+Spergularia villosa (Pers.) Cambess.
+Stellaria antoniana Volponi
+Stellaria cuspidata Schltdl.
+Stellaria media (L.) Vill.
+Stellaria ovata Schltdl.
+Stellaria recurvata Schltdl.
+Celastrus meridensis Pittier
+Euonymus europaeus L.
+Euonymus japonicus Thunb.
+Maytenus laxiflora Triana & Planch.
+Maytenus trianae Briq.
+Hedyosmum bonplandianum Kunth
+Hedyosmum colombianum Cuatrec.
+Hedyosmum crenatum Occhioni
+Hedyosmum goudotianum Solms
+Hedyosmum parvifolium Baill.
+Hedyosmum racemosum (Ruiz & Pav.) G.Don
+Hedyosmum translucidum Cuatrec.
+Moquilea cabrerae (Prance) Sothers & Prance
+Cleome anomala Kunth
+Podandrogyne densiflora (Benth.) Iltis & Cochrane
+Tarenaya spinosa (Jacq.) Raf.
+Clethra fagifolia Kunth
+Clethra fimbriata Kunth
+Clethra lanata M. Martens & Galeotti
+Clethra obovata (Ruiz & Pav.) G.Don
+Clethra ovalifolia Turcz.
+Clethra repanda Turcz.
+Clethra rugosa Steyerm.
+Clusia alata Planch. & Triana
+Clusia brachycarpa Cuatrec.
+Clusia cundinamarcensis Cuatrec.
+Clusia ducu Benth.
+Clusia elliptica Kunth
+Clusia ellipticifolia Cuatrec.
+Clusia magnifolia Cuatrec.
+Clusia multiflora Kunth
+Clusia octopetala Cuatrec.
+Clusia orthoneura Standl.
+Clusia schomburgkiana (Planch. & Triana) Engl.
+Tovomita parviflora Cuatrec.
+Gloriosa superba L.
+Commelina diffusa Burm.f.
+Commelina erecta L.
+Tinantia erecta (Jacq.) Fenzl
+Tradescantia crassifolia Cav.
+Tradescantia fluminensis Vell.
+Tradescantia pallida (Rose) D.R.Hunt
+Tradescantia zanonia (L.) Sw.
+Tradescantia zebrina Bosse
+Tripogandra multiflora (Sw.) Raf.
+Tripogandra serrulata (Vahl) Handlos
+Cuscuta grandiflora Kunth
+Cuscuta indecora Choisy
+Dichondra evolvulacea (L.f.) Britton
+Dichondra repens J.R.Forst. & G.Forst.
+Evolvulus alsinoides (L.) L.
+Evolvulus bogotensis Ooststr.
+Ipomoea coccinea L.
+Ipomoea dumetorum Roem. & Schult.
+Ipomoea jujuyensis O'Donell
+Ipomoea plummerae A.Gray
+Ipomoea purpurea (L.) Roth
+Cordia bogotensis Benth.
+Cordia rhombifolia Estrada
+Varronia curassavica Jacq.
+Varronia cylindristachya Ruiz & Pav.
+Varronia cylindrostachya Ruiz & Pav.
+Varronia dichotoma Ruiz & Pav.
+Varronia spinescens (L.) Borhidi
+Coriaria ruscifolia L.
+Aeonium arboreum Webb & Berthel.
+Aeonium canariense Webb & Berthel.
+Crassula multicava Lem.
+Crassula ovata (Mill.) Druce
+Crassula venezuelensis (Steyerm.) M.Bywater & Wickens
+Echeveria ballsii E. Walther
+Echeveria bicolor (Kunth) E.Walther
+Echeveria elegans Rose
+Echeveria secunda Stand ex Lindl.
+Kalanchoe beharensis Drake
+Kalanchoe blossfeldiana Poelln.
+Kalanchoe crenata (Andrews) Haw.
+Kalanchoe daigremontiana Raym.-Hamet & H.Perrier
+Kalanchoe delagoensis Eckl. & Zeyh.
+Kalanchoe densiflora Rolfe
+Kalanchoe gastonis-bonnieri Raym.-Hamet & H.Perrier
+Kalanchoe marmorata Baker
+Kalanchoe pinnata (Lam.) Pers.
+Kalanchoe pubescens Baker
+Kalanchoe pumila Baker
+Kalanchoe tomentosa Baker
+Rhodiola pachyclada (Aitch. & Hemsl.) H.Ohba
+Rosularia sempervivum A.Berger
+Sedum moranense Kunth
+Sedum morganianum E.Walther
+Sedum palmeri S.Watson
+Sedum praealtum A.DC.
+Sedum rubrotinctum R.T. Clausen
+Sedum rupestre L.
+Cayaponia simplicifolia (Naudin) Cogn.
+Cucumis sativus L.
+Cucurbita ficifolia Bouché
+Cucurbita maxima Duchesne
+Cucurbita pepo L.
+Cyclanthera brachybotrys (Poepp. & Endl.) Cogn.
+Cyclanthera brachystachya (DC.) Cogn.
+Cyclanthera pedata (L.) Schrad.
+Sechium edule (Jacq.) Sw.
+Sicyos bogotensis Cogn.
+Sicyos urolobus Harms
+Weinmannia auriculata D.Don
+Weinmannia balbisiana Kunth
+Weinmannia elliptica Kunth
+Weinmannia fagaroides Kunth
+Weinmannia heterophylla Kunth
+Weinmannia karsteniana Szyszy?.
+Weinmannia kunthiana D.Don
+Weinmannia macrophylla Kunth
+Weinmannia mariquitae Szyszy?.
+Weinmannia microphylla Kunth
+Weinmannia pinnata L.
+Weinmannia pubescens Kunth
+Weinmannia reticulata Ruiz & Pav.
+Weinmannia rollottii Killip
+Weinmannia stenocarpa Killip & A.C. Sm.
+Weinmannia tomentosa L.f.
+Weinmannia trianaea Wedd.
+Bulbostylis asperula (Kunth) C.B. Clarke
+Bulbostylis tenuifolia (Rudge) J.F.Macbr.
+Carex acutata Boott
+Carex albolutescens Schwein.
+Carex amicta Boott
+Carex bonplandii Kunth
+Carex fecunda Steud.
+Carex hamata Sw.
+Carex humboldtiana Steud.
+Carex jamesonii Boott
+Carex lasiocarpa Ehrh.
+Carex livida (Wahlenb.) Willd.
+Carex lurida Wahlenb.
+Carex luridiformis Reznicek & S.González
+Carex peucophila Holm
+Carex pichinchensis Kunth
+Carex polystachya Wahlenb.
+Carex purdiei Boott
+Carex pygmaea Boeckeler
+Carex tamana Steyerm.
+Carex tristicha Boeck.
+Cyperus acuminatus Torr. & Hook.
+Cyperus aggregatus (Willd.) Endl.
+Cyperus bipartitus Torr.
+Cyperus cyperinus (Retz.) Suringar
+Cyperus esculentus L.
+Cyperus haspan L.
+Cyperus hermaphroditus (Jacq.) Standl.
+Cyperus imbricatus Retz.
+Cyperus luzulae (L.) Retz.
+Cyperus mutisii (Kunth) Andersson
+Cyperus niger Ruiz & Pav.
+Cyperus odoratus L.
+Cyperus papyrus L.
+Cyperus rufus Kunth
+Cyperus simplex Kunth
+Cyperus tenuis Sw.
+Cyperus virens Michx.
+Cyperus xanthostachyus Steud.
+Eleocharis acicularis (L.) Roem. & Schult.
+Eleocharis dombeyana Kunth
+Eleocharis elegans (Kunth) Roem. & Schult.
+Eleocharis exigua (Kunth) Roem. & Schult.
+Eleocharis filiculmis Kunth
+Eleocharis geniculata (L.) Roem. & Schult.
+Eleocharis macrostachya Britton
+Eleocharis montana (Kunth) Roem. & Schult.
+Eleocharis sellowiana Kunth
+Eleocharis stenocarpa Svenson
+Fimbristylis complanata (Retz.) Link
+Fuirena incompleta Nees
+Isolepis cernua (Vahl) Roem. & Schult.
+Isolepis inundata R.Br.
+Isolepis nigricans Kunth
+Kyllinga brevifolia Rottb.
+Kyllinga pumila Michx.
+Oreobolus cleefii L.E.Mora
+Oreobolus goeppingeri Suess.
+Oreobolus obtusangulus Gaudich.
+Oreobolus venezuelensis Steyerm.
+Rhynchospora aristata Boeckeler
+Rhynchospora blepharophora (J.Presl & C.Presl) H.Pfeiff.
+Rhynchospora cephalotes (L.) Vahl
+Rhynchospora ciliata (G.Mey.) Kük.
+Rhynchospora colorata (L.) H.Pfeiff.
+Rhynchospora corymbosa (L.) Britton
+Rhynchospora macrochaeta Boeckeler
+Rhynchospora nervosa (Vahl) Boeckeler
+Rhynchospora oreoboloidea Gómez-Laur.
+Rhynchospora paramora Steyerm.
+Rhynchospora polyphylla (Vahl) Vahl
+Rhynchospora ruiziana Boeckeler
+Rhynchospora schiedeana (Schltdl.) Kunth
+Schoenoplectus californicus (C.A.Mey.) Soják
+Schoenoplectus tabernaemontani (C.C.Gmel.) Palla
+Scleria verticillata Willd.
+Uncinia hamata (Sw.) Urb.
+Uncinia phleoides (Cav.) Pers.
+Dioscorea coriacea Willd.
+Dioscorea lehmannii Uline
+Dioscorea piperifolia Humb. & Bonpl. ex Willd.
+Vallea stipularis L.f.
+Elatine fassettiana Steyerm.
+Elatine paramoana Schmidt-M. & Bernal
+Bejaria aestuans L.
+Bejaria ledifolia Bonpl.
+Bejaria mathewsii Fielding & Gardner
+Bejaria resinosa L.f.
+Cavendishia bracteata (J.St.Hil.) Hoerold
+Cavendishia complectens Hemsl.
+Cavendishia nitida (Kunth) A.C.Sm.
+Cavendishia pubescens (Kunth) Hemsl.
+Disterigma alaternoides (Kunth) Nied.
+Disterigma empetrifolium (Kunth) Nied.
+Disterigma humboldtii (Klotzsch) Nied.
+Erica arborea L.
+Gaultheria anastomosans (L.f.) Kunth
+Gaultheria buxifolia Willd.
+Gaultheria erecta Vent.
+Gaultheria hapalotricha A.C.Sm.
+Gaultheria lanigera Hook.
+Gaultheria mucronata (L.f.) Hook. & Arn.
+Gaultheria rigida Kunth
+Gaultheria santanderensis A.C.Sm.
+Gaultheria sclerophylla Cuatrec.
+Gaultheria shallon Pursh
+Gaultheria strigosa Benth.
+Gaylussacia buxifolia Kunth
+Macleania rupestris (Kunth) A.C.Sm.
+Pernettya hirta (Willd.) Sleumer
+Pernettya prostrata (Cav.) DC.
+Plutarchia guascensis (Cuatrec.) A.C.Sm.
+Psammisia falcata (Kunth) Klotzsch
+Psammisia graebneriana Hoerold
+Rhododendron indicum (L.) Sweet
+Rhododendron ponticum L.
+Rhododendron simsii Planch.
+Rhododendron yedoense Maxim. ex Regel
+Sphyrospermum buxifolium Poepp. & Endl.
+Sphyrospermum cordifolium Benth.
+Themistoclesia compacta A.C.Sm.
+Themistoclesia dependens (Benth.) A.C. Sm.
+Themistoclesia epiphytica A.C.Sm.
+Thibaudia floribunda Kunth
+Thibaudia grantii A.C.Sm.
+Thibaudia gunnarii Luteyn
+Thibaudia parvifolia (Benth.) Hoerold
+Vaccinium corymbodendron Dunal
+Vaccinium corymbosum L.
+Vaccinium floribundum Kunth
+Vaccinium meridionale Sw.
+Paepalanthus alpinus Körn.
+Paepalanthus andicola Körn.
+Paepalanthus barkleyi Moldenke
+Paepalanthus dendroides (Kunth) Kunth
+Paepalanthus ensifolius (Kunth) Kunth
+Paepalanthus karstenii Ruhland
+Paepalanthus lindenii Ruhland
+Paepalanthus lodiculoides Moldenke
+Paepalanthus oligocephalus Körn.
+Paepalanthus petraeus Körn.
+Paepalanthus pilosus (Kunth) Kunth
+Escallonia discolor Vent.
+Escallonia laevis (Vell.) Sleumer
+Escallonia myrtilloides L.f.
+Escallonia paniculata (Ruiz & Pav.) Schult.
+Escallonia pendula (Ruiz & Pav.) Pers.
+Escallonia polifolia Hook.
+Escallonia resinosa (Ruiz & Pav.) Pers.
+Escallonia rubra (Ruiz & Pav.) Pers.
+Acalypha chamaedrifolia (Lam.) Müll.Arg.
+Acalypha macrostachya Jacq.
+Alchornea bogotensis Pax & K.Hoffm.
+Alchornea glandulosa Poepp.
+Alchornea grandiflora Müll.Arg.
+Codiaeum variegatum (L.) A.Juss.
+Croton bogotanus Cuatrec.
+Croton coriaceus Kunth
+Croton hibiscifolius Spreng.
+Croton magdalenensis Müll.Arg.
+Croton malambo H. Karst.
+Croton mutisianus Kunth
+Croton polycarpus Benth.
+Croton pungens Jacq.
+Croton purdiei Müll.Arg.
+Dysopsis glechomoides (A.Rich.) Müll.Arg.
+Dysopsis paucidentata (Müll.Arg.) Lozano & J.Murillo
+Euphorbia dugandiana Croizat
+Euphorbia lasiocarpa Klotzsch
+Euphorbia lathyris L.
+Euphorbia laurifolia Lam.
+Euphorbia leucocephala Lotsy
+Euphorbia milii Des Moul.
+Euphorbia orbiculata Kunth
+Euphorbia peploides Gouan
+Euphorbia peplus L.
+Euphorbia pulcherrima Klotzsch
+Ricinus communis L.
+Sapium glandulosum (L.) Morong
+Acacia baileyana F.Muell.
+Acacia calamifolia Sweet ex Lindl.
+Acacia cultriformis A.Cunn. ex G.Don
+Acacia dealbata Link
+Acacia decurrens Willd.
+Acacia floribunda (Vent.) Willd.
+Acacia longifolia (Andrews) Willd.
+Acacia melanoxylon R.Br.
+Acacia obovata Benth.
+Acacia podalyriifolia A.Cunn. ex G.Don
+Acacia pravissima F. Muell. ex Benth.
+Acacia retinodes Schltdl.
+Acacia saligna (Labill.) H.L.Wendl.
+Acacia stictophylla Court ex Maslin & D.J.Murphy
+Acacia verticillata (L'Hér.) Willd.
+Acacia vestita Ker Gawl.
+Acaciella angustissima (Mill.) Britton & Rose
+Arachis pintoi Krapov. & W.C.Greg.
+Bauhinia picta (Kunth) DC.
+Calliandra haematocephala Hassk.
+Calliandra magdalenae (Bertero ex DC.) Benth.
+Calliandra pittieri Standl.
+Calliandra purdiei Benth.
+Calliandra trinervia Benth.
+Centrosema pubescens Benth.
+Clianthus puniceus (G.Don) Lindl.
+Cologania broussonetii (Balb.) DC.
+Colutea arborescens L.
+Crotalaria agatiflora Schweinf.
+Dalea coerulea (L.f.) Schinz & Thell.
+Desmodium incanum (Sw.) DC.
+Desmodium molliculum (Kunth) DC.
+Desmodium orbiculare Schltdl.
+Dipogon lignosus (L.) Verdc.
+Eriosema diffusum (Kunth) G.Don
+Erythrina edulis Triana ex Micheli
+Erythrina rubrinervia Kunth
+Genista canariensis L.
+Genista monspessulana (L.) L.A.S.Johnson
+Hedysarum splendens DC.
+Indigofera lespedezioides Kunth
+Inga acuminata Benth.
+Inga cinnamomea Benth.
+Inga coruscans Willd.
+Inga feuillei DC.
+Inga insignis Kunth
+Inga marginata Willd.
+Inga oerstediana Benth. ex Seem.
+Inga ornata Kunth
+Lathyrus meridensis Pittier
+Lathyrus odoratus L.
+Lathyrus sativus L.
+Lens culinaris Medik.
+Leucaena leucocephala (Lam.) de Wit
+Lotus berthelotii Mansf.
+Lotus corniculatus L.
+Lupinus albus L.
+Lupinus amandus C.P.Sm.
+Lupinus austrohumifusus C.P.Sm.
+Lupinus bogotensis Benth.
+Lupinus chipaquensis C.P.Sm.
+Lupinus colombiensis C.P. Sm.
+Lupinus crucis-viridis C.P. Sm.
+Lupinus gachetensis C.P.Sm.
+Lupinus guascensis C.P.Sm.
+Lupinus hortorum C.P.Sm.
+Lupinus interruptus Benth.
+Lupinus monserratensis C.P.Sm.
+Lupinus mutabilis Sweet
+Lupinus peruvianus var. peruvianus
+Lupinus protrusus C.P.Sm.
+Lupinus pubescens Benth.
+Lupinus spragueanus C.P.Sm.
+Lupinus subcuneatus C.P.Sm.
+Lupinus triananus C.P.Sm.
+Lupinus verjonensis C.P.Sm.
+Lupinus viduus C.P.Sm.
+Medicago lupulina L.
+Medicago polymorpha L.
+Medicago sativa L.
+Melilotus albus Medik.
+Melilotus indicus (L.) All.
+Otholobium brachystachyum (Diels) J.W.Grimes
+Otholobium mexicanum (L.f.) J.W.Grimes
+Paraserianthes lophantha (Willd.) I.C.Nielsen
+Phanera variegata (L.) Benth.
+Phaseolus coccineus L.
+Phaseolus dumosus Macfad.
+Phaseolus vulgaris L.
+Pisum sativum L.
+Psoralea pinnata L.
+Schenella glabra (Jacq.) Dugand
+Senna hayesiana (Britton & Rose) H.S.Irwin & Barneby
+Senna multiglandulosa (Jacq.) H.S.Irwin & Barneby
+Senna pistaciifolia (Kunth) H.S.Irwin & Barneby
+Senna santanderensis (Britton & Killip) H.S. Irwin & Barneby
+Senna septemtrionalis (Viv.) H.S. Irwin & Barneby
+Senna viarum (Little) H.S.Irwin & Barneby
+Spartium junceum L.
+Swainsona formosa (G.Don) J.Thompson
+Tara spinosa (Molina) Britton & Rose
+Tephrosia vogelii Hook.f.
+Trifolium amabile Kunth
+Trifolium arvense L.
+Trifolium campestre Schreb.
+Trifolium dubium Sibth.
+Trifolium hybridum L.
+Trifolium incarnatum L.
+Trifolium micranthum Viv.
+Trifolium pratense L.
+Trifolium repens L.
+Ulex europaeus L.
+Vicia andicola Kunth
+Vicia benghalensis L.
+Vicia faba L.
+Vicia graminea Sm.
+Vicia sativa L.
+Vicia sativa subsp. nigra (L.) Ehrh.
+Quercus humboldtii Bonpl.
+Quercus robur L.
+Trigonobalanus excelsa Lozano, Hern.Cam. & Henao
+Canscora diffusa (Vahl) Roem. & Schult.
+Gentiana prostrata Haenke
+Gentiana sedifolia Kunth
+Gentianella corymbosa (Kunth) Weaver & Rüdenberg
+Gentianella nevadensis (Gilg) Weaver & Rüdenberg
+Halenia adpressa C.K.Allen
+Halenia asclepiadea (Kunth) G.Don
+Halenia elata Wedd.
+Halenia gentianoides Wedd.
+Halenia kalbreyeri Gilg
+Halenia major Wedd.
+Lehmanniella pulchra (W.J.Hook.) J.E.Simonis ex P.J.M.Maas
+Macrocarpaea glabra (L. f.) Gilg
+Macrocarpaea macrophylla (Kunth) Gilg
+Macrocarpaea nicotianifolia R.E.Weaver & J.R.Grant
+Symbolanthus anomalus (Kunth) Gilg
+Erodium cicutarium (L.) L'Hér. ex Aiton
+Erodium moschatum (L.) L'Hér.
+Geranium hernandesii Moc. & Sessé ex DC.
+Geranium himalayense Klotzsch
+Geranium holosericeum Spreng.
+Geranium killipii R.Knuth
+Geranium lainzii Aedo
+Geranium lindenianum Turcz.
+Geranium maculatum L.
+Geranium multiceps Turcz.
+Geranium multipartitum Benth.
+Geranium santanderiense R.Knuth
+Geranium sibbaldioides Benth.
+Geranium stramineum Triana & Planch.
+Pelargonium × hortorum L.H.Bailey
+Pelargonium capitatum (L.) L'Hér.
+Pelargonium cucullatum (L.) L'Hér.
+Pelargonium graveolens L'Hér.
+Pelargonium hirtum (Burm. fil.) Jacq.
+Pelargonium odoratissimum (L.) L'Hér.
+Pelargonium peltatum (L.) L'Hér.
+Pelargonium zonale (L.) Aiton
+Alloplectus hispidus (Kunth) Mart.
+Alloplectus inflatus J.L.Clark & L.E.Skog
+Besleria reticulata Fritsch
+Columnea strigosa Benth.
+Glossoloma ichthyoderma (Hanst.) J.L.Clark
+Heppiella ulmifolia (Kunth) Hanst.
+Kohleria affinis (Fritsch) Roalson & Boggan
+Kohleria hirsuta (Kunth) Regel
+Kohleria tigridia (Ohlend.) Roalson & Boggan
+Kohleria trianae (Regel) Hanst.
+Nematanthus gregarius D.L.Denham
+Sinningia speciosa Benth. & Hook.
+Ribes andicola Jancz.
+Ribes bogotanum Jancz.
+Ribes canescens Pittier
+Gunnera bogotana L.E.Mora
+Gunnera pilosa Kunth
+Gunnera saint-johnii (L.E.Mora) L.E.Mora
+Anigozanthos flavidus DC.
+Anigozanthos pulcherrimus Hook.
+Myriophyllum aquaticum (Vell.) Verdc.
+Myriophyllum quitense Kunth
+Heliotropium arborescens L.
+Heliotropium europaeum L.
+Hydrangea macrophylla (Thunb.) Ser.
+Hydrangea peruviana Ser.
+Philadelphus coronarius L.
+Limnobium laevigatum (Willd.) Heine
+Hypericum bolivaricum N.Robson
+Hypericum brevistylum Choisy
+Hypericum calycinum L.
+Hypericum caracasanum Willd.
+Hypericum chamaemyrtus Triana & Planch.
+Hypericum garciae Pierce
+Hypericum genistoides Kunth
+Hypericum gnidioides Seem.
+Hypericum goyanesii Cuatrec.
+Hypericum hartwegii Benth.
+Hypericum humboldtianum Steud.
+Hypericum juniperinum Kunth
+Hypericum lancioides Cuatrec.
+Hypericum laricifolium Juss.
+Hypericum lycopodioides Triana & Planch.
+Hypericum mexicanum L.
+Hypericum myricariifolium Hieron.
+Hypericum patulum Thunb.
+Hypericum prostratum Cuatrec.
+Hypericum ruscoides Cuatrec.
+Hypericum sabiniforme Trevis.
+Hypericum selaginella N.Robson
+Hypericum strictum Kunth
+Hypericum struthiolifolium Juss.
+Hypericum thuyoides Kunth
+Hypericum xylosteifolium (Spach) N.Robson
+Vismia baccifera (L.) Planch. & Triana
+Hypoxis decumbens L.
+Hypoxis humilis Kunth
+Molineria capitulata (Lour.) Herb.
+Crocosmia × crocosmiiflora (Lemoine) N.E.Br.
+Crocosmia aurea (Pappe ex Hook.) Planch.
+Dietes bicolor (Steud.) Klatt ex Sweet
+Dietes grandiflora N.E.Br.
+Dietes iridioides (L.) Sweet ex Klatt
+Freesia alba (G.L.Mey.) Gumbl.
+Freesia refracta (Jacq.) Klatt
+Gladiolus × hortulanus L.H. Bailey
+Gladiolus communis L.
+Iris germanica L.
+Iris japonica Thunb.
+Neomarica longifolia (Link & Otto) Sprague
+Olsynium trinerve (Baker) R.A.Rodr. & Martic.
+Orthrosanthus chimboracensis (Kunth) Baker
+Orthrosanthus monadelphus Ravenna
+Sisyrinchium chilense Hook.
+Sisyrinchium convolutum Nocca
+Sisyrinchium jamesonii Baker
+Sisyrinchium micranthum Cav.
+Sisyrinchium pusillum Kunth
+Sisyrinchium tinctorium Kunth
+Sisyrinchium unispathaceum Klatt
+Sisyrinchium vaginatum Spreng.
+Tigridia pavonia (L.f.) DC.
+Watsonia borbonica (Pourr.) Goldblatt
+Watsonia pyramidata (Andrews) Klatt
+Juglans neotropica Diels
+Distichia muscoides Nees & Meyen
+Juncus breviculmis Balslev
+Juncus bufonius L.
+Juncus capillaceus Lam.
+Juncus cyperoides Laharpe
+Juncus densiflorus Kunth
+Juncus dudleyi Wiegand
+Juncus ebracteatus E.Mey.
+Juncus echinocephalus Balslev
+Juncus ecuadoriensis Balslev
+Juncus effusus L.
+Juncus imbricatus Laharpe
+Juncus microcephalus Kunth
+Juncus ramboi Barros
+Juncus stipulatus Nees & Meyen
+Juncus tenuis Willd.
+Luzula gigantea Desv.
+Luzula racemosa Desv.
+Luzula vulcanica Liebm.
+Triglochin scilloides (Poir.) Mering & Kadereit
+Aegiphila alba Moldenke
+Aegiphila bogotensis (Spreng.) Moldenke
+Agastache rugosa (Fisch. & C.A. Mey.) Kuntze
+Ajuga genevensis L.
+Ajuga pyramidalis L.
+Ajuga reptans L.
+Clerodendrum chinense (Osbeck) Mabb.
+Clinopodium brownei (Sw.) Kuntze
+Clinopodium nubigenum (Kunth) Kuntze
+Coleus amboinicus Lour.
+Coleus comosus Hochst. ex Gürke
+Coleus forsteri (Benth.) A.J.Paton
+Coleus scutellarioides (L.) Benth.
+Cornutia pyramidata L.
+Holmskioldia sanguinea Retz.
+Lamiastrum galeobdolon (L.) Ehrend. & Polatschek
+Lamium amplexicaule L.
+Lavandula stoechas L.
+Leonotis leonurus (L.) R. Br.
+Leonotis nepetifolia (L.) R.Br.
+Lepechinia betonicifolia (Lam.) Epling
+Lepechinia bullata (Kunth) Epling
+Lepechinia conferta (Benth.) Epling
+Lepechinia salviifolia (Kunth) Epling
+Lepechinia schiedeana (Schltdl.) Vatke
+Lepechinia vulcanicola J.R.I.Wood
+Marrubium vulgare L.
+Melissa officinalis L.
+Mentha × piperita L.
+Mentha arvensis L.
+Mentha longifolia (L.) Huds.
+Mentha pulegium L.
+Mentha spicata L.
+Mentha suaveolens Ehrh.
+Mesosphaerum perbullatum (Fern.Alonso) Harley & J.F.B.Pastore
+Minthostachys mollis (Benth.) Griseb.
+Minthostachys septentrionalis Schmidt-Leb.
+Moluccella laevis L.
+Ocimum americanum L.
+Ocimum basilicum L.
+Ocimum campechianum Mill.
+Origanum majorana L.
+Origanum vulgare L.
+Plectranthus forsteri Benth.
+Plectranthus 'Mona lavender'
+Plectranthus ornatus Codd
+Plectranthus verticillatus (L.f.) Druce
+Prunella vulgaris L.
+Rosmarinus officinalis L.
+Salvia × atroviolacea Fern.Alonso
+Salvia × jamensis J.Compton
+Salvia × nariniensis Fern.Alonso
+Salvia × rociana Fern.Alonso
+Salvia × tunica-mariae Fern.Alonso
+Salvia amethystina Sm.
+Salvia bogotensis Benth.
+Salvia camarifolia Benth.
+Salvia carnea Kunth
+Salvia chicamochae J.R.I.Wood & Harley
+Salvia coccinea Etl.
+Salvia cocuyana Fern.Alonso
+Salvia cuatrecasasiana Epling
+Salvia cyanocephala Epling
+Salvia erythrostoma Epling
+Salvia gachantivana Fern.Alonso
+Salvia hispanica L.
+Salvia leucantha Cav.
+Salvia macrostachya Kunth
+Salvia melaleuca Epling
+Salvia microphylla Kunth
+Salvia officinalis L.
+Salvia orthostachys Epling
+Salvia palifolia Kunth
+Salvia pauciserrata Benth.
+Salvia rubescens Kunth
+Salvia rubriflora Epling
+Salvia rufula Kunth
+Salvia sagittata Ruiz & Pav.
+Salvia scutellarioides Kunth
+Salvia sordida Benth.
+Salvia sphacelioides Benth.
+Salvia splendens Schult.
+Salvia tortuosa Kunth
+Salvia uribei J.R.I.Wood & Harley
+Salvia verbenaca L.
+Salvia xeropapillosa Fern.Alonso
+Satureja viminea L.
+Scutellaria coccinea Kunth
+Scutellaria incarnata Vent.
+Scutellaria racemosa Pers.
+Stachys arvensis (L.) L.
+Stachys bogotensis Kunth
+Stachys byzantina K.Koch
+Stachys calcicola Epling
+Stachys elliptica Kunth
+Stachys eriantha Benth.
+Stachys gilliesii Benth.
+Stachys hebens Epling
+Stachys pusilla (Wedd.) Briq.
+Stachys radicans Epling
+Stachys spathulata Burch. ex Benth.
+Teucrium fruticans L.
+Thymus vulgaris L.
+Westringia fruticosa (Willd.) Druce
+Aiouea dubia (Kunth) Mez
+Aniba puchury-minor (Mart.) Mez
+Beilschmiedia costaricensis (Mez & Pittier) C.K. Allen
+Beilschmiedia latifolia  (Nees) Sachiko Nishida
+Laurus nobilis L.
+Nectandra laurel Nees
+Nectandra lineatifolia (Ruiz & Pav.) Mez
+Nectandra purpurea  (Ruiz & Pav.) Mez
+Ocotea caesariata van der Werff
+Ocotea gentryi van der Werff
+Ocotea heterochroma Mez & Sodiro
+Ocotea sericea Kunth
+Persea americana Mill.
+Persea ferruginea Kunth
+Persea mutisii Kunth
+Eschweilera sessilis A.C. Sm.
+Pinguicula elongata Benj.
+Utricularia gibba L.
+Lilium candidum L.
+Linum usitatissimum L.
+Nasa argemonoides (Juss.) Weigend
+Aetanthus colombianus A.C.Sm.
+Aetanthus mutisii (Kunth) Engl.
+Gaiadendron punctatum (Ruiz & Pav.) G.Don
+Passovia stelis (L.) J.Kuijt
+Tristerix secundus (Benth.) Kuijt
+Cuphea antisyphilitica Kunth
+Cuphea ciliata Ruiz & Pav.
+Cuphea dipetala (L.f.) Koehne
+Cuphea elliptica Koehne
+Cuphea hyssopifolia Kunth
+Cuphea ignea A.DC.
+Cuphea micrantha Kunth
+Cuphea micropetala Kunth
+Cuphea racemosa (L.f.) Spreng.
+Lafoensia acuminata (Ruiz & Pav.) DC.
+Lafoensia punicifolia DC.
+Lythrum maritimum Kunth
+Punica granatum L.
+Magnolia denudata Desr.
+Magnolia grandiflora L.
+Magnolia soulangeana Soul.-Bod.
+Banisteriopsis muricata (Cav.) Cuatrec.
+Bronwenia cornifolia (Kunth) W.R.Anderson & C.Davis
+Bunchosia armeniaca (Cav.) DC.
+Stigmaphyllon bogotense Triana & Planch.
+Abutilon × hybridum hort. ex Voss
+Abutilon grandifolium (Willd.) Sweet
+Abutilon insigne Planch.
+Acaulimalva purpurea (A.W.Hill) Krapov.
+Alcea rosea L.
+Althaea officinalis L.
+Brachychiton acerifolius (A. Cunn.) Macarthur & C. Moore
+Callianthe picta (Gillies ex Hook. & Arn.) Donnell
+Callianthe striata (G.F.Dicks. ex Lindl.) Donnell
+Callianthe vexillaria (E.Morren) Donnell
+Dombeya wallichii (Lindl.) Baill.
+Fuertesimalva limensis (L.) Fryxell
+Fuertesimalva peruviana (L.) Fryxell
+Gaya calyptrata (Cav.) Kunth ex K.Schum.
+Grewia caffra Meisn.
+Grewia occidentalis L.
+Hampea thespesioides Triana & Planch.
+Heliocarpus americanus L.
+Hibiscus rosa-sinensis L.
+Hibiscus sabdariffa L.
+Hibiscus syriacus L.
+Lavatera × clementii Cheek
+Malva arborea (L.) Webb & Berthel.
+Malva assurgentiflora (Kellogg) M.F.Ray
+Malva parviflora L.
+Malva pusilla Sm.
+Malva sylvestris L.
+Malvaviscus arboreus Cav.
+Malvaviscus penduliflorus DC.
+Modiola caroliniana (L.) G.Don
+Pavonia sepium A.St.-Hil.
+Pavonia spinifex (L.) Cav.
+Phymosia rosea (DC.) Kearney
+Sida abutifolia Mill.
+Sida poeppigiana (K.Schum.) Fryxell
+Sida rhombifolia L.
+Sida setosa Colla
+Sparrmannia africana L.f.
+Triumfetta bogotensis DC.
+Calathea zebrina (Sims) Lindl.
+Goeppertia bachemiana (É.Morren) Borchs. & S.Suárez
+Maranta leuconeura E.Morren
+Andesanthus lepidotus (Bonpl.) P.J.F.Guim. & Michelang.
+Axinaea grandifolia (Naudin) Triana
+Axinaea macrophylla (Naudin) Triana
+Axinaea scutigera Triana
+Blakea granatensis Naudin
+Blakea sphaerica Gleason
+Brachyotum ledifolium (Desr.) Triana
+Brachyotum lindenii Cogn.
+Brachyotum strigosum (L.f.) Triana
+Bucquetia glutinosa (L.f.) DC.
+Castratella piloselloides Naudin
+Castratella rosea Gleason
+Centradenia floribunda Planch.
+Chaetogastra andreana (Cogn.) P.J.F. Guim. & Michelang.
+Chaetogastra ciliaris (Vent.) DC.
+Chaetogastra grossa (L. f.) P.J.F. Guim. & Michelang.
+Chaetogastra longifolia (Vahl) DC.
+Chaetogastra mollis (Bonpl.) DC.
+Chaetolepis anisandra Naudin
+Chaetolepis microphylla (Bonpl.) Miq.
+Clidemia ciliata D.Don
+Heterocentron elegans (Schltdl.) Kuntze
+Leandra subseriata (Naudin) Cogn.
+Meriania aguaditensis H. Mend. & Fern. Alonso
+Meriania brachycera (Naudin) Humberto Mend. & Fern.Alonso
+Meriania haemantha (Planch. & Lindl.) Humberto Mend. & Fern.Alonso
+Meriania mutabilis (Gleason) Humberto Mend. & Fern.Alonso
+Meriania mutisii (Bonpl.) Humberto Mend. & Fern.Alonso
+Meriania nobilis Triana
+Meriania speciosa (Bonpl.) Naudin
+Miconia alborosea L.Uribe
+Miconia annulata Triana
+Miconia bella Wurdack
+Miconia biappendiculata (Naudin) L.Uribe
+Miconia buxifolia Naudin
+Miconia cataractae Triana
+Miconia chionophila Naudin
+Miconia cladonia Gleason
+Miconia cleefii L.Uribe
+Miconia cundinamarcensis Wurdack
+Miconia dolichopoda Naudin
+Miconia elaeoides Naudin
+Miconia ferruginea (Desr.) DC.
+Miconia glaberrima (Schltdl.) Naudin
+Miconia gleasoniana Wurdack
+Miconia impetiolaris (Sw.) DC.
+Miconia jahnii Pittier
+Miconia latifolia (D.Don) Naudin
+Miconia lehmannii Cogn.
+Miconia ligustrina (Sm.) Triana
+Miconia mahechae Humberto Mend.
+Miconia media (D.Don) Naudin
+Miconia micropetala Cogn.
+Miconia miocarpa Naudin
+Miconia myrtillifolia Naudin
+Miconia notabilis Triana
+Miconia parvifolia Cogn.
+Miconia plethorica Naudin
+Miconia prasina (Sw.) DC.
+Miconia reclinata (Bonpl.) Naudin
+Miconia resima Naudin
+Miconia salicifolia (Naudin) Naudin
+Miconia squamulosa Triana
+Miconia stipularis Naudin
+Miconia summa Cuatrec.
+Miconia symplocoidea Triana
+Miconia theaezans (Bonpl.) Cogn.
+Miconia theizans (Bonpl.) Cogn.
+Miconia tococa Michelang.
+Miconia versicolor Naudin
+Miconia elaeagnoides  Cogn.
+Monochaetum bonplandii (Humb. & Bonpl.) Naudin
+Monochaetum glanduliferum Triana
+Monochaetum hartwegianum Naudin
+Monochaetum lineatum (D.Don) Naudin
+Monochaetum meridense Naudin
+Monochaetum myrtoideum Naudin
+Monochaetum uribei Wurdack
+Pleroma heteromallum  (D. Don) D. Don
+Pleroma urvilleanum (DC.) P.J.F. Guim. & Michelang.
+Tibouchina paleacea (Triana) Cogn.
+Cedrela montana Turcz.
+Ruagea glabra Triana & Planch.
+Cissampelos fasciculata Benth.
+Cissampelos grandifolia Triana & Planch.
+Cissampelos pareira L.
+Calatola costaricensis Standl.
+Mollugo verticillata L.
+Mollinedia lanceolata Ruiz & Pav.
+Mollinedia ovata Ruiz & Pav.
+Mollinedia tomentosa (Benth.) Tul.
+Calandrinia acaulis Kunth
+Calandrinia ciliata (Ruiz & Pav.) DC.
+Montia biapiculata Lourteig
+Montia fontana L.
+Montia meridensis Friedrich
+Ficus americana Aubl.
+Ficus andicola Standl.
+Ficus benjamina L.
+Ficus caldasiana Dugand
+Ficus carica L.
+Ficus cuatrecasasiana  Dugand
+Ficus elastica Hornem.
+Ficus lyrata Warb.
+Ficus pumila L.
+Ficus repens Roxb. ex Sm.
+Ficus rubiginosa Desf. ex Vent.
+Ficus soatensis Dugand
+Ficus tequendamae Dugand
+Ficus velutina Willd.
+Morus alba L.
+Morus insignis Bureau
+Ensete ventricosum (Welw.) Cheesman
+Musa × paradisiaca L.
+Morella parvifolia (Benth.) Parra-Os.
+Morella pubescens (Willd.) Wilbur
+Morella singularis (Parra-O.) Parra-O.
+Acca sellowiana (O.Berg) Burret
+Baeckea frutescens L.
+Callistemon rigidus R. Br.
+Callistemon speciosus (Sims) Sweet
+Callistemon viminalis (Sol. ex Gaertn.) G. Don
+Callistemon pallidus  (Bonpl.) DC.
+Calycolpus moritzianus (O.Berg) Burret
+Corymbia calophylla (Lindl.) K.D.Hill & L.A.S.Johnson
+Corymbia citriodora (Hook.) K.D.Hill & L.A.S.Johnson
+Corymbia ficifolia (F.Muell.) K.D.Hill & L.A.S.Johnson
+Eucalyptus camaldulensis Dehnh.
+Eucalyptus cinerea Benth.
+Eucalyptus deanei Maiden
+Eucalyptus elata Dehnh.
+Eucalyptus globulus Labill.
+Eucalyptus polyanthemos Schauer
+Eucalyptus pulverulenta Sims
+Eucalyptus resinifera Sm.
+Eucalyptus robusta Sm.
+Eucalyptus saligna Sm.
+Eucalyptus viminalis Labill.
+Feijoa sellowiana (O. Berg) O. Berg
+Leptospermum scoparium J.R.Forst. & G.Forst.
+Leptospermum virgatum  JR Forst. & G.Forst.
+Melaleuca citrina (Curtis) Dum.Cours.
+Melaleuca viminalis (Gaertn.) Byrnes
+Melaleuca virens Craven
+Metrosideros excelsa Gaertn.
+Myrcia cucullata O.Berg
+Myrcia leucadendron DC.
+Myrcia popayanensis Hieron.
+Myrcianthes fragrans (Sw.) McVaugh
+Myrcianthes leucoxyla (Ortega) McVaugh
+Myrcianthes orthostemon (O.Berg) Grifo
+Myrcianthes rhopaloides (Kunth) McVaugh
+Myrteola nummularia (Lam.) O.Berg
+Psidium cattleianum Afzel. ex Sabine
+Psidium guajava L.
+Psidium pedicellatum McVaugh
+Syzygium jambos (L.) Alston
+Syzygium paniculatum Gaertn.
+Ugni myricoides (Kunth) O.Berg
+Bougainvillea glabra Choisy
+Bougainvillea spectabilis Willd.
+Mirabilis jalapa L.
+Mirabilis prostrata (Ruiz & Pav.) Heimerl
+Mirabilis violacea (L.) Heimerl
+Sauvagesia erecta L.
+Chionanthus pubescens Kunth
+Chionanthus virginicus L.
+Fraxinus longicuspis Siebold & Zucc.
+Fraxinus ornus L.
+Fraxinus uhdei (Wenz.) Lingelsh.
+Jasminum azoricum L.
+Jasminum grandiflorum L.
+Jasminum humile L.
+Jasminum multiflorum (Burm.f.) Andrews
+Jasminum officinale L.
+Jasminum polyanthum Franch.
+Ligustrum japonicum Thunb.
+Ligustrum lucidum W.T.Aiton
+Ligustrum ovalifolium Hassk.
+Ligustrum vulgare L.
+Olea europaea L.
+Epilobium denticulatum Ruiz & Pav.
+Fuchsia arborescens Sims
+Fuchsia boliviana Carrière
+Fuchsia coccinea Dryand.
+Fuchsia corymbiflora Ruiz & Pav.
+Fuchsia denticulata Ruiz & Pav.
+Fuchsia hirtella Kunth
+Fuchsia hybrida Siebert & Voss
+Fuchsia magellanica Lam.
+Fuchsia paniculata Lindl.
+Fuchsia petiolaris Kunth
+Fuchsia regia (Vand. ex Vell.) Munz
+Fuchsia triphylla L.
+Fuchsia venusta Kunth
+Fuchsia verrucosa Benth.
+Ludwigia grandiflora (Michaux) Greuter & Burdet
+Ludwigia palustris (L.) Elliott
+Ludwigia peploides (Kunth) P.H.Raven
+Ludwigia peruviana (L.) H.Hara
+Oenothera epilobiifolia Kunth
+Oenothera glazioviana Micheli
+Oenothera laciniata Hill
+Oenothera macrocarpa Nutt.
+Oenothera missouriensis Sims
+Oenothera multicaulis Ruiz & Pav.
+Oenothera tetraptera Cav.
+Aa argyrolepis Rchb. f.
+Aa hartwegii Garay
+Aa leucantha (Rchb.f.) Schltr.
+Aa maderoi Schltr.
+Aa paleacea (Kunth) Rchb.f.
+Acianthera decurrens (Poepp. & Endl.) Pridgeon & M.W.Chase
+Acianthera polystachya (Ruiz & Pav.) Pupulin
+Acianthera sicaria (Lindl.) Pridgeon & M.W. Chase
+Altensteinia fimbriata Kunth
+Anathallis acuminata (Kunth) Pridgeon & M.W.Chase
+Anathallis sclerophylla (Lindl.) Pridgeon & M.W.Chase
+Brassavola nodosa (L.) Lindl.
+Cattleya trianae Linden & Rchb. f.
+Cattleya warscewiczii Rchb. f.
+Caucaea radiata (Lindl.) Mansf.
+Cranichis antioquiensis Schltr.
+Cranichis ciliata Kunth
+Cranichis diphylla Sw.
+Cranichis lehmanniana (Kraenzl.) L.O.Williams
+Cranichis muscosa Sw.
+Cranichis parvula Renz
+Crocodeilanthe pulchella (Kunth) Luer
+Cyclopogon argyrotaenius Schltr.
+Cyclopogon elatus (Sw.) Schltr.
+Cyclopogon lindleyanus (Link et al.) Schltr.
+Cyclopogon peruvianus (C.Presl) Schltr.
+Cyclopogon prasophyllus (Rchb.f.) Schltr.
+Cyclopogon rimbachii Schltr.
+Cyrtochilum auropurpureum (Rchb.f.) Dalström
+Cyrtochilum cimiciferum (Rchb.f.) Dalström
+Cyrtochilum densiflorum (Lindl.) Kraenzl.
+Cyrtochilum diceratum (Lindl.) Kraenzl.
+Cyrtochilum divaricatum (Lindl.) Dalström
+Cyrtochilum exasperatum (Rchb. f. & Linden) Kraenzl.
+Cyrtochilum ixioides Lindl.
+Cyrtochilum megalophium (Lindl.) Kraenzl.
+Cyrtochilum pardinum Lindl.
+Cyrtochilum porrigens (Rchb.f.) Kraenzl.
+Cyrtochilum ramosissimum (Lindl.) Dalström
+Cyrtochilum revolutum (Lindl.) Dalström
+Cyrtochilum ventilabrum (Rchb.f. & Warsz.) Kraenzl.
+Cyrtochilum weirii (Rchb.f.) Dalström
+Dracula gorgonella Luer & R. Escobar
+Dracula roezlii (Rchb. f.) Luer
+Dracula ubangina Luer & Andreetta
+Elleanthus amethystinus (Rchb.f. & Warsz.) Rchb.f.
+Elleanthus arpophyllostachys (Rchb.f.) Rchb.f.
+Elleanthus aurantiacus (Lindl.) Rchb.f.
+Elleanthus ensatus (Lindl.) Rchb.f.
+Elleanthus furfuraceus (Lindl.) Rchb.f.
+Elleanthus lupulinus (Lindl.) Rchb. f.
+Elleanthus maculatus (Lindl.) Rchb.f.
+Elleanthus myrosmatis (Rchb. f.) Rchb. f.
+Elleanthus purpureus (Rchb.f.) Rchb.f.
+Elleanthus smithii Schltr.
+Elleanthus wageneri (Rchb.f.) Rchb.f.
+Encyclia oxypetala  (Lindl.) Schltr.
+Epidendrum acuminatum Ruiz & Pav.
+Epidendrum apaganum Mansf.
+Epidendrum arachnoglossum André
+Epidendrum arnoldii Schltr.
+Epidendrum bogotense Schltr.
+Epidendrum brachyglossum Lindl.
+Epidendrum brachyrhodochilum Hágsater & E.Santiago
+Epidendrum brassivoliforme  F.Lehm. & Kraenzl.
+Epidendrum caesaris Hágsater & E.Santiago
+Epidendrum calyptratoides Hágsater & Dodson
+Epidendrum calyptratum F.Lehm. & Kraenzl.
+Epidendrum cernuum Kunth
+Epidendrum chacaoense Rchb. f.
+Epidendrum chingazaense Hágsater, E.Santiago & Uribe Vélez
+Epidendrum chioneum Lindl.
+Epidendrum chlorocorymbos Schltr.
+Epidendrum cylindraceum Lindl.
+Epidendrum decurviflorum Schltr.
+Epidendrum dendrobii Rchb. f.
+Epidendrum elleanthoides Schltr.
+Epidendrum elongatum Jacq.
+Epidendrum erosum Ames & C.Schweinf.
+Epidendrum excisum Lindl.
+Epidendrum falsiloquum Rchb. f.
+Epidendrum fastigiatum Lindl.
+Epidendrum fimbriatum Kunth
+Epidendrum frutex Rchb.f.
+Epidendrum gastropodium Rchb.f.
+Epidendrum geminiflorum Kunth
+Epidendrum gongorarum Hagsater, Pfahl & Cisneros
+Epidendrum inornatum Schltr.
+Epidendrum karstenii Rchb.f.
+Epidendrum kirkbridei Hágsater & E.Santiago
+Epidendrum klotzscheanum Rchb.f.
+Epidendrum macrostachyum Lindl.
+Epidendrum maderoi Schltr.
+Epidendrum magnibracteatum Ames
+Epidendrum megalospathum Rchb.f.
+Epidendrum melinanthum Schltr.
+Epidendrum microtum (Lindl.) Hágsater & L.Sánchez
+Epidendrum moritzii Rchb.f.
+Epidendrum ortizii Hágsater & E.Santiago
+Epidendrum oxysepalum Hágsater & E.Santiago
+Epidendrum peperomia Rchb.f.
+Epidendrum physopus Kraenzl.
+Epidendrum pittieri Ames
+Epidendrum porpax Rchb.f.
+Epidendrum praetervisum Rchb.f.
+Epidendrum prasinum Schltr.
+Epidendrum restrepoanum A.D.Hawkes
+Epidendrum rhodochilum (Schltr.) Hágsater & Dodson
+Epidendrum rhomboscutellum Hágsater & E.Santiago
+Epidendrum robinson-galindoi Hágsater, Uribe Vélez et  E.Santiago
+Epidendrum schistochilum Schltr.
+Epidendrum scutella Lindl.
+Epidendrum scytocladium Schltr.
+Epidendrum secundum Jacq.
+Epidendrum serpens Lindl.
+Epidendrum sisgaense Hágsater
+Epidendrum soratae Rchb.f.
+Epidendrum sumapacense Hágsater & E.Santiago
+Epidendrum trulliforme Garay & Dunst.
+Epidendrum zipaquiranum Schltr.
+Fernandezia crystallina (Lindl.) M.W.Chase
+Fernandezia ecallosa (D.E. Benn. & Christenson) M.W. Chase
+Fernandezia hispidula (Rchb.f.) M.W.Chase
+Fernandezia lanceolata (L.O. Williams) Garay & Dunst.
+Fernandezia micrantha (Schltr.) M.W. Chase
+Fernandezia myrtillus (Rchb.f.) Garay & Dunst.
+Fernandezia pastii (Rchb.f.) M.W.Chase
+Fernandezia sanguinea (Lindl.) Garay & Dunst.
+Fernandezia tortuosa (Foldats) M.W.Chase
+Gomphichis bogotensis Renz
+Gomphichis caucana Schltr.
+Gomphichis cladotricha Renz
+Gomphichis cundinamarcae Renz
+Gomphichis goodyeroides Lindl.
+Gomphichis lancipetala Schltr.
+Gomphichis scaposa Schltr.
+Gomphichis traceyae Rolfe
+Gongora catilligera R. Rice
+Govenia superba (Lex.) Lindl.
+Habenaria gollmeri Schltr.
+Habenaria repens Nutt.
+Hofmeisterella eumicroscopica (Rchb.f.) Rchb.f.
+Hofmeisterella falcata (Linden & Rchb.f.) Nauray & A.Galán
+Lepanthes caudatisepala C.Schweinf.
+Lepanthes chelonion Luer & R. Escobar
+Lepanthes clausa Luer & R.Escobar
+Lepanthes contingens Luer
+Lepanthes costata Rchb.f.
+Lepanthes dunstervilleorum Foldats
+Lepanthes gargantua Rchb.f.
+Lepanthes matisii Luer et al.
+Lepanthes mirador Luer & Hirtz
+Lepanthes monoptera Lindl.
+Lepanthes mucronata Lindl.
+Lepanthes oreibates Luer & R.Escobar
+Lepanthes prolifera Foldats
+Lepanthes tracheia Rchb.f.
+Lepanthes troxis Luer & R.Escobar
+Lepanthes wageneri Rchb.
+Liparis brachystalix Rchb. f.
+Liparis serpens Garay
+Malaxis crispifolia (Rchb.f.) Kuntze
+Malaxis excavata (Lindl.) Kuntze
+Malaxis fastigiata (Rchb.f.) Kuntze
+Masdevallia caudata Lindl.
+Masdevallia coriacea Lindl.
+Masdevallia cucullata Rchb.f.
+Masdevallia pachyantha Rchb.f.
+Masdevallia racemosa Lindl.
+Masdevallia strumifera Rchb.f.
+Masdevallia villegasii Königer
+Masdevallia virgo-cuencae Luer & Andreetta
+Masdevallia xanthina Rchb.f.
+Maxillaria aggregata (Kunth) Lindl.
+Maxillaria alticola C.Schweinf.
+Maxillaria aurea (Poepp. & Endl.) L.O.Williams
+Maxillaria cassapensis Rchb.f.
+Maxillaria compacta (Schltr.) P.Ortiz
+Maxillaria graminifolia (Kunth) Rchb.f.
+Maxillaria lawrenceana (Rolfe) Garay & Dunst.
+Maxillaria mapiriensis (Kraenzl.) L.O.Williams
+Maxillaria pleuranthoides (Schltr.) Garay
+Maxillaria procurrens Lindl.
+Maxillaria ruberrima (Lindl.) Garay
+Maxillaria spilotantha Rchb.f.
+Maxillaria tocotana Schltr.
+Maxillaria tristis Schltr.
+Maxillariella cassapensis (Rchb.f.) M.A.Blanco & Carnevali
+Maxillariella spilotantha (Rchb.f.) M.A.Blanco & Carnevali
+Microchilus paraisoensis Ormerod
+Muscarella latilabris (Foldats) Luer
+Muscarella macroblepharis (Rchb.f.) Luer
+Muscarella zephyrina (Rchb.f.) Luer
+Myoxanthus exasperatus (Lindl.) Luer
+Myoxanthus reymondii (H.Karst.) Luer
+Myrosmodes cochleare Garay
+Myrosmodes paludosa (Rchb.f.) P.Ortiz
+Myrosmodes rhynchocarpum (Schltr.) Garay
+Oncidium gloriosum (Linden & Rchb.f.) M.W.Chase & N.H.Williams
+Oncidium ornithorhynchum Kunth
+Ornithidium aggregatum (Kunth) Rchb.f.
+Ornithidium serrulatum Lindl.
+Pelexia orobanchoides (Kraenzl.) Schltr.
+Platystele alucitae Luer
+Platystele dasyglossa P.Ortiz
+Pleurothallis antennifera Lindl.
+Pleurothallis bicornis Lindl.
+Pleurothallis bivalvis Lindl.
+Pleurothallis cardiostola Rchb.f.
+Pleurothallis chloroleuca Lindl.
+Pleurothallis coriacardia Rchb.f.
+Pleurothallis deflexa Luer
+Pleurothallis gracilipedunculata Foldats
+Pleurothallis grandiflora Lindl.
+Pleurothallis killipii Garay
+Pleurothallis lilijae Foldats
+Pleurothallis lindenii Lindl.
+Pleurothallis linguifera Lindl.
+Pleurothallis macrocardia Rchb.f.
+Pleurothallis phalangifera (C.Presl) Rchb.f.
+Pleurothallis ramosii Luer
+Pleurothallis revoluta (Ruiz & Pav.) Garay
+Pleurothallis ruscifolia (Jacq.) R.Br.
+Pleurothallis secunda Poepp. & Endl.
+Pleurothallis talpinaria Rchb.f.
+Pleurothallis undulata Poepp. & Endl.
+Pleurothallopsis striata (Luer & R.Escobar) Pridgeon & M.W.Chase
+Pleurothallopsis tubulosa (Lindl.) Pridgeon & M.W.Chase
+Ponthieva diptera Linden & Rchb.f.
+Ponthieva maculata Lindl.
+Ponthieva similis C.Schweinf.
+Prescottia stachyodes (Sw.) Lindl.
+Pterichis fernandezii G.Morales
+Pterichis galeata Lindl.
+Pterichis habenarioides (F.Lehm. & Kraenzl.) Schltr.
+Pterichis pauciflora Schltr.
+Sobralia mutisii P.Ortiz
+Specklinia macroblepharis (Rchb. f.) Pridgeon & M.W. Chase
+Specklinia sibatensis (F. Lehm. & Kraenzl.) Luer
+Stelis argentata Lindl.
+Stelis ascendens Lindl.
+Stelis asseris O. Duque
+Stelis atra Lindl.
+Stelis brevilabris Lindl.
+Stelis calceolaris Garay
+Stelis cassidis (Lindl.) Pridgeon & M.W.Chase
+Stelis chamaestelis (Rchb. f.) Garay & Dunst.
+Stelis concinna Lindl.
+Stelis dejavu Luer & R. Escobar
+Stelis ejuncida Luer & R. Escobar
+Stelis elongata Kunth
+Stelis fractiflexa Ames & C.Schweinf.
+Stelis galeata (Lindl.) Pridgeon & M.W.Chase
+Stelis guatemalensis Schltr.
+Stelis jamesonii (Lindl.) Pridgeon & M.W.Chase
+Stelis lanceolata (Ruiz & Pav.) Willd.
+Stelis lennartii Karremans
+Stelis lentiginosa Lindl.
+Stelis ligulata (Lindl.) Pridgeon & M.W.Chase
+Stelis melanopus (F. Lehm. & Kraenzl.) Karremans
+Stelis nanegalensis Lindl.
+Stelis oblonga (Ruiz & Pav.) Willd.
+Stelis parvilabris Lindl.
+Stelis pulchella Kunth
+Stelis purpurea (Ruiz & Pav.) Willd.
+Stelis pusilla Kunth
+Stelis ramificans Luer & Endara
+Stelis roseopunctata (Lindl.) R.Bernal
+Stelis samson Luer & R. Escobar
+Stelis superbiens Lindl.
+Stelis tenuilabris Lindl.
+Stelis velaticaulis (Rchb.f.) Pridgeon & M.W.Chase
+Stenorrhynchos millei Schltr.
+Stenorrhynchos speciosum (Jacq.) Rich.
+Stenorrhynchos vaginatum (Kunth) Spreng.
+Telipogon antioquianus Rchb.f.
+Telipogon berthae P.Ortiz
+Telipogon falcatus Linden & Rchb.f.
+Telipogon hemimelas Rchb.f.
+Telipogon latifolius Kunth
+Telipogon nervosus (L.) Druce
+Trichosalpinx arbuscula (Lindl.) Luer
+Trichosalpinx chamaelepanthes (Rchb.f.) Luer
+Trichosalpinx chamaelepanthes  (Rchb.f.) Luer
+Trichosalpinx pusilla (Kunth) Luer
+Aureolaria laevigata (Raf.) Raf.
+Castilleja arvensis Schltdl. & Cham.
+Castilleja fissifolia L.f.
+Castilleja integrifolia L.f.
+Castilleja nubigena Kunth
+Castilleja paramensis F.González & Pabón-Mora
+Castilleja scorzonerifolia Kunth
+Lamourouxia virgata Kunth
+Neobartsia crisafullii (N.H.Holmgren) Uribe-Convers & Tank
+Neobartsia glandulifera (Molau) Uribe-Convers & Tank
+Neobartsia inaequalis (Benth.) Uribe-Convers & Tank
+Neobartsia laniflora (Benth.) Uribe-Convers & Tank
+Neobartsia laticrenata (Benth.) Uribe-Convers & Tank
+Neobartsia orthocarpiflora (Benth.) Uribe-Convers & Tank
+Neobartsia pedicularoides (Benth.) Uribe-Convers & Tank
+Neobartsia ramosa (Molau) Uribe-Convers & Tank
+Neobartsia santolinifolia (Kunth) Uribe-Convers & Tank
+Neobartsia stricta (Kunth) Uribe-Convers & Tank
+Orobanche minor Sm.
+Biophytum santanderense R.Knuth
+Oxalis acetosella L.
+Oxalis bowiei Herb. ex Lindl.
+Oxalis conorrhiza Jacq.
+Oxalis corniculata L.
+Oxalis debilis Kunth
+Oxalis drummondii A.Gray
+Oxalis fendleri Lourteig
+Oxalis filiformis Kunth
+Oxalis latifolia Kunth
+Oxalis lotoides Kunth
+Oxalis medicaginea Kunth
+Oxalis scandens Kunth
+Oxalis spiralis G.Don
+Oxalis triangularis A.St.-Hil.
+Oxalis tuberosa Molina
+Bocconia frutescens L.
+Bocconia integrifolia Bonpl.
+Eschscholzia californica Cham.
+Fumaria capreolata L.
+Fumaria officinalis L.
+Papaver orientale L.
+Papaver rhoeas L.
+Papaver somniferum L.
+Passiflora × rosea (H.Karst.) Killip
+Passiflora adulterina L.f.
+Passiflora antioquiensis H. Karst.
+Passiflora arborea Spreng.
+Passiflora azeroana L.Uribe
+Passiflora bicuspidata (H.Karst.) Mast.
+Passiflora bogotensis Benth.
+Passiflora caerulea L.
+Passiflora crispolanata L.Uribe
+Passiflora cuatrecasasii Killip
+Passiflora cumbalensis (H.Karst.) Harms
+Passiflora edulis Sims
+Passiflora lanata (Juss.) Poir.
+Passiflora ligularis Juss.
+Passiflora loefgrenii Vitta
+Passiflora longipes Juss.
+Passiflora mixta L.f.
+Passiflora pinnatistipula Cav.
+Passiflora tarminiana Coppens & V.E.Barney
+Passiflora tripartita (Juss.) Poir.
+Paulownia tomentosa Steud.
+Freziera bonplandiana Tul.
+Freziera canescens Humb. & Bonpl.
+Ternstroemia meridionalis L.f.
+Ledenbergia peruviana O.C.Schmidt
+Ledenbergia seguierioides Klotzsch ex Moq.
+Petiveria alliacea L.
+Erythranthe glabrata (Kunth) G.L.Nesom
+Mimulus glabratus Kunth
+Hieronyma asperifolia Pax & K.Hoffm.
+Hieronyma fendleri Briq.
+Hieronyma macrocarpa Müll.Arg.
+Hieronyma rufa P.Franco R.
+Hieronyma scabra Müll. Arg.
+Phyllanthus niruri L.
+Phyllanthus salviifolius Kunth
+Phytolacca americana L.
+Phytolacca bogotensis Kunth
+Phytolacca dioica L.
+Phytolacca icosandra L.
+Phytolacca rivinoides Kunth & C.D.Bouché
+Phytolacca rugosa A.Braun & C.D.Bouché
+Picramnia latifolia Tul.
+Picramnia sphaerocarpa Planch.
+Peperomia adscendens C.DC.
+Peperomia albispica C. DC.
+Peperomia alibacophylla Trel. & Yunck.
+Peperomia angularis C.DC.
+Peperomia argyreia E.Morr.
+Peperomia arthurii Trel. & Yunck.
+Peperomia blanda (Jacq.) Kunth
+Peperomia caperata Yunck.
+Peperomia chimboana C.DC.
+Peperomia colorata Kunth
+Peperomia emarginulata C.DC.
+Peperomia epilobioides Trel. & Yunck.
+Peperomia galioides Kunth
+Peperomia glabella (Sw.) A.Dietr.
+Peperomia hartwegiana Miq.
+Peperomia hispidula (Sw.) A.Dietr.
+Peperomia ilaloensis Sodiro
+Peperomia microphylla Kunth
+Peperomia obtusifolia (L.) A.Dietr.
+Peperomia pereskiifolia (Jacq.) Kunth
+Peperomia persulcata Yunck.
+Peperomia peruviana Dahlst.
+Peperomia polybotrya Kunth
+Peperomia rotundata Kunth
+Peperomia saligna Kunth
+Peperomia schultzei Trel. & Yunck.
+Peperomia spathophylla Dahlst.
+Peperomia subspathulata Yunck.
+Peperomia suratana Trel. & Yunck.
+Peperomia tequendamana Trel.
+Peperomia tetraphylla (G.Forst.) Hook. & Arn.
+Peperomia trinervis Ruiz & Pav.
+Piper artanthe C.DC.
+Piper barbatum Kunth
+Piper lacunosum Kunth
+Piper obliquum Ruiz & Pav.
+Piper perverrucosum Trel. & Yunck.
+Piper umbellatum L.
+Piper viridistachyum Yunck.
+Pittosporum crassifolium Banks & Sol. ex A. Cunn.
+Pittosporum tobira (Thunb.) W.T.Aiton
+Pittosporum undulatum Vent.
+Antirrhinum majus L.
+Aragoa × funzana Fern.Alonso
+Aragoa × jaramilloi Fern.Alonso
+Aragoa abietina Kunth
+Aragoa cleefii Fern.Alonso
+Aragoa corrugatifolia Fern.Alonso
+Aragoa cundinamarcensis Fern.Alonso
+Aragoa cupressina Kunth
+Aragoa perez-arbelaeziana Romero
+Basistemon bogotensis Turcz.
+Callitriche deflexa Hegelm.
+Callitriche nubigena Fassett
+Cymbalaria muralis Gaertn. et al.
+Digitalis lanata Ehrh.
+Digitalis purpurea L.
+Gratiola bogotensis Cortés ex Pennell
+Gratiola peruviana L.
+Hebe elliptica (G. Forst.) Pennell
+Hebe odora (Hook. f.) Cockayne
+Hebe salicifolia (G. Forst.) Pennell
+Maurandya scandens (Cav.) Pers.
+Mecardonia procumbens (Mill.) Small
+Nuttallanthus subandinus (Diels) D.A.Sutton
+Nuttallanthus texanus (Scheele) D.A.Sutton
+Penstemon gloxinioides hort.
+Penstemon hartwegii Benth.
+Plantago australis Lam.
+Plantago goudotiana Decne.
+Plantago lanceolata L.
+Plantago linearis Kunth
+Plantago major L.
+Plantago orbignyana Decne.
+Plantago rigida Kunth
+Plantago sericea Ruiz & Pav.
+Rhodochiton atrosanguineum (Zucc.) Rothm.
+Sibthorpia repens (L.) Kuntze
+Veronica × franciscana Eastw.
+Veronica arvensis L.
+Veronica 'Beverly Hills'
+Veronica 'Black Beauty'
+Veronica elliptica G.Forster
+Veronica javanica Blume
+Veronica odora Hook.f.
+Veronica peregrina L.
+Veronica persica Poir.
+Veronica salicifolia G.Forster
+Veronica serpyllifolia L.
+Veronica speciosa R.Cunn. ex A.Cunn.
+Platanus acerifolia (Aiton) Willd.
+Platanus occidentalis L.
+Armeria maritima (Mill.) Willd.
+Limonium sinuatum (L.) Mill.
+Plumbago auriculata Lam.
+Aciachne acicularis Laegaard
+Aciachne flagellifera Laegaard
+Agrostis boyacensis Swallen & García-Barr.
+Agrostis breviculmis Hitchc.
+Agrostis foliata Hook.f.
+Agrostis gigantea Roth
+Agrostis mertensii Trin.
+Agrostis perennans (Walter) Tuck.
+Agrostis stolonifera L.
+Agrostis tolucensis Kunth
+Agrostis trichodes (Kunth) Roem. & Schult.
+Agrostis turrialbae Mez
+Alopecurus aequalis Sobol.
+Alopecurus pratensis L.
+Andropogon aequatoriensis Hitchc.
+Anthoxanthum odoratum L.
+Aristida laxa Cav.
+Arrhenatherum elatius (L.) P.Beauv. ex J.Presl & C.Presl.
+Arthrostylidium ecuadorense Judz. & L.G. Clark
+Arthrostylidium youngianum L.G.Clark & Judz.
+Arundo donax L.
+Aulonemia bogotensis L.G.Clark, Londoño & M.Kobay.
+Aulonemia trianae (Munro) McClure
+Avena fatua L.
+Avena sativa L.
+Axonopus compressus (Sw.) P.Beauv.
+Axonopus fissifolius (Raddi) Kuhlm.
+Axonopus scoparius (Flüggé) Kuhlm.
+Bambusa vulgaris Schrad. ex J.C.Wendl., nom. cons. prop.
+Bothriochloa saccharoides (Sw.) Rydb.
+Bouteloua simplex Lag.
+Brachypodium distachyon (L.) P.Beauv.
+Brachypodium mexicanum (Roem. & Schult.) Link
+Briza minor L.
+Bromus catharticus Vahl
+Bromus lanatus Kunth
+Bromus pitensis Kunth
+Bromus segetum Kunth
+Calamagrostis bogotensis (Pilg.) Pilg.
+Calamagrostis effusa (Kunth) Steud.
+Calamagrostis eminens (J.Presl) Steud.
+Calamagrostis fibrovaginata Laegaard
+Calamagrostis intermedia (J.Presl) Steud.
+Calamagrostis ligulata (Kunth) Hitchc.
+Calamagrostis macrophylla (Pilg.) Pilg.
+Calamagrostis planifolia (Kunth) Steud.
+Calamagrostis recta (Kunth) Trin. ex Steud
+Cenchrus clandestinus (Chiov.) Morrone
+Cenchrus occidentalis (Chase) Morrone
+Cenchrus setaceus (Forssk.) Morrone
+Cenchrus tristachyus (Kunth) Kuntze
+Chloris gayana Kunth
+Chloris submutica Kunth
+Chusquea acuminatissima (Munro) L.G.Clark
+Chusquea lehmannii Pilg.
+Chusquea ligulata Munro
+Chusquea scandens Kunth
+Chusquea serrulata Pilg.
+Chusquea sneidernii Aspl.
+Chusquea spectabilis L.G.Clark
+Chusquea spencei Ernst
+Chusquea tessellata Munro
+Cinna poiformis (Kunth) Scribn. & Merr.
+Cortaderia bifida Pilg.
+Cortaderia columbiana (Pilg.) Pilg.
+Cortaderia hapalotricha (Pilg.) Conert
+Cortaderia nitida (Kunth) Pilg.
+Cortaderia pungens Swallen
+Cortaderia selloana (Schult. & Schult.f.) Asch. & Graebn.
+Cymbopogon citratus (DC.) Stapf
+Dactylis glomerata L.
+Dactyloctenium aegyptium (L.) Willd.
+Danthonia secundiflora J.Presl
+Dichanthelium sphaerocarpon (Elliott) Gould
+Digitaria abyssinica (Hochst. ex A.Rich.) Stapf
+Digitaria sanguinalis (L.) Scop.
+Eleusine indica (L.) Gaertn.
+Elymus cordilleranus Davidse & R.W.Pohl
+Eragrostis cilianensis (All.) Janch.
+Eragrostis intermedia Hitchc.
+Eragrostis mexicana (Hornem.) Link
+Eragrostis nigricans (Kunth) Steud.
+Eragrostis pastoensis (Kunth) Trin.
+Eragrostis pectinacea (Michx.) Nees
+Eragrostis tenuifolia (A.Rich.) Steud.
+Festuca andicola Kunth
+Festuca arundinacea Schreb.
+Festuca colombiana E.B.Alexeev
+Festuca cundinamarcae E.B.Alexeev
+Festuca glauca Vill.
+Festuca pilar-franceii Stancík
+Festuca procera Kunth
+Festuca ulochaeta Steud.
+Glyceria fluitans (L.) R.Br.
+Glyceria notata Chevall.
+Holcus lanatus L.
+Holcus mollis L.
+Hordeum vulgare L.
+Isachne rigens (Sw.) Trin.
+Jarava ichu Ruiz & Pav.
+Jarava pseudoichu (Caro) F.Rojas
+Leersia hexandra Sw.
+Lolium multiflorum Lam.
+Lolium perenne L.
+Lolium temulentum L.
+Melica scabra Kunth
+Microchloa kunthii Desv.
+Muhlenbergia angustata (J.Presl) Kunth
+Muhlenbergia cenchroides (Willd.) P.M.Peterson
+Muhlenbergia fastigiata (J.Presl) Henrard
+Muhlenbergia ligularis (Hack.) Hitchc.
+Muhlenbergia phalaroides (Kunth) P.M.Peterson
+Nassella depauperata (Pilg.) Barkworth
+Nassella linearifolia (E. Fourn.) R.W. Pohl
+Nassella mexicana (Hitchc.) R.W.Pohl
+Nassella mucronata (Kunth) R.W.Pohl
+Oplismenus burmanni (Retz.) P.Beauv.
+Ortachne erectifolia (Swallen) Clayton
+Panicum polygonatum Schrad.
+Paspalum bonplandianum Flüggé
+Paspalum candidum (Flüggé) Kunth
+Paspalum decumbens Sw.
+Paspalum fimbriatum Kunth
+Paspalum hirtum Kunth
+Paspalum jaliscanum Hitchc.
+Paspalum prostratum Scribn. & Merr.
+Paspalum sodiroanum Hack.
+Paspalum trianae Pilg.
+Phalaris arundinacea L.
+Phalaris minor Retz.
+Phyllostachys aurea Rivière & C.Rivière
+Piptochaetium montevidense (Spreng.) Parodi
+Piptochaetium panicoides (Lam.) É.Desv.
+Poa annua L.
+Poa colombiana Soreng & Sylvester
+Poa cucullata Hack.
+Poa hitchcockiana Soreng & P.M.Peterson
+Poa infirma Kunth
+Poa orthophylla Pilg.
+Poa reclinata (Swallen) Soreng & P.M.Peterson
+Podagrostis bacillata  (Hack.) Silvestre y Soreng
+Polypogon elongatus Kunth
+Polypogon monspeliensis (L.) Desf.
+Polypogon viridis (Gouan) Breistr.
+Schizachyrium sanguineum (Retz.) Alston
+Secale cereale L.
+Setaria glauca (L.) P. Beauv.
+Setaria parviflora (Poir.) M.Kerguelen
+Sporobolus bogotensis Swallen & García-Barr.
+Sporobolus indicus (L.) R.Br.
+Sporobolus lasiophyllus Pilg.
+Sporobolus purpurascens (Sw.) Ham.
+Triniochloa andina Luces
+Triniochloa stipoides (Kunth) Hitchc.
+Trisetum irazuense (Kuntze) Hitchc.
+Trisetum spicatum (L.) K.Richt.
+Triticum aestivum L.
+Urochloa decumbens (Stapf) R.D. Webster
+Vulpia bromoides (L.) Gray
+Vulpia myuros (L.) C.C.Gmel.
+Zea mays L.
+Zuloagaea bulbosa (Kunth) Bess
+Cantua buxifolia Juss. ex Lam.
+Cobaea scandens Cav.
+Phlox drummondii Hook.
+Monnina aestuans (L.f.) DC.
+Monnina celastroides (Bonpl.) Chodat
+Monnina cladostachya Turcz.
+Monnina crassifolia (Bonpl.) Kunth
+Monnina fastigiata (Bonpl.) DC.
+Monnina hirta (Bonpl.) B. Eriksen
+Monnina padifolia (Bonpl.) Freire-Fierro
+Monnina salicifolia Ruiz & Pav.
+Monnina tenuifolia Chodat
+Polygala × dalmaisiana Dazzler
+Polygala capillaris E.Mey.
+Polygala corifolia Planch. & Triana
+Polygala myrtifolia L.
+Polygala nemoralis A.W.Benn.
+Polygala paniculata L.
+Homalocladium platycladum (F. Muell.) L.H. Bailey
+Muehlenbeckia tamnifolia (Kunth) Meisn.
+Muehlenbeckia volcanica (Benth.) Endl.
+Persicaria capitata (Buch.-Ham. ex D. Don) H. Gross
+Persicaria hydropiper (L.) Spach
+Persicaria hydropiperoides (Michx.) Small
+Persicaria maculosa Gray
+Persicaria segetum (Kunth) Small
+Polygonum acuminatum Kunth
+Polygonum aviculare L.
+Polygonum capitatum D.Don
+Polygonum nepalense Meisn.
+Polygonum posumbu Buch.-Ham. ex D. Don
+Polygonum punctatum Elliott
+Rheum palmatum L.
+Rheum rhaponticum L.
+Rumex acetosella L.
+Rumex conglomeratus Murray
+Rumex crispus L.
+Rumex obtusifolius L.
+Rumex patientia L.
+Rumex tolimensis Wedd.
+Eichhornia crassipes (Mart.) Solms
+Pontederia cordata L.
+Portulaca oleracea L.
+Potamogeton crispus L.
+Potamogeton paramoanus R.R.Haynes & Holm-Niels.
+Potamogeton pusillus L.
+Anagallis arvensis L.
+Ardisia foetida Roem. & Schult.
+Ardisia sapida Cuatrec.
+Clavija rodekiana Linden & André
+Cybianthus iteoides (Benth.) G.Agostini
+Cybianthus marginatus (Benth.) Pipoly
+Cyclamen persicum Mill.
+Geissanthus andinus Mez
+Geissanthus bogotensis Mez
+Geissanthus quindiensis Mez
+Lysimachia arvensis (L.) U.Manns & Anderb.
+Lysimachia ovalis (Ruiz & Pav.) U.Manns & Anderb.
+Myrsine andina (Mez) Pipoly
+Myrsine coriacea (Sw.) Roem. & Schult.
+Myrsine dependens (Ruiz & Pav.) Spreng.
+Myrsine guianensis (Aubl.) Kuntze
+Myrsine latifolia (Ruiz & Pav.) Spreng.
+Myrsine pellucida (Ruiz & Pav.) Spreng.
+Myrsine sessiliflora (Mez) Pipoly
+Primula × polyantha Mill.
+Primula obconica Hance
+Primula sinensis Lour.
+Primula veris L.
+Grevillea banksii R. Br.
+Grevillea robusta R.Br.
+Macadamia integrifolia Maiden & Betche
+Panopsis suaveolens (Klotzsch) Pittier
+Roupala pachypoda Cuatrec.
+Aquilegia canadensis L.
+Aquilegia pubescens Coville
+Aquilegia vulgaris L.
+Clematis haenkeana C.Presl
+Consolida ajacis (L.) Schur
+Eriocapitella hybrida (L. H. Bailey) Christenh. & Byng
+Nigella damascena L.
+Ranunculus flagelliformis Sm.
+Ranunculus geranioides Kunth
+Ranunculus limoselloides Turcz.
+Ranunculus nubigenus DC.
+Ranunculus peruvianus Pers.
+Ranunculus petiolaris DC.
+Ranunculus praemorsus DC.
+Ranunculus spaniophyllus Lourteig
+Thalictrum podocarpum Kunth
+Reseda odorata L.
+Condalia thomasiana Fern.Alonso
+Rhamnus goudotiana Triana & Planch.
+Rhamnus infectoria L.
+Rhamnus sphaerosperma Sw.
+Acaena cylindristachya Ruiz & Pav.
+Acaena elongata L.
+Acaena ovalifolia Ruiz & Pav.
+Alchemilla pectinata Kunth
+Cotoneaster frigidus Wall. ex Lindl.
+Cotoneaster horizontalis Decne.
+Cotoneaster lacteus W.W.Sm
+Cotoneaster multiflorus Bunge
+Cotoneaster pannosus Franch.
+Cotoneaster racemiflorus (Desf.) K.Koch
+Crataegus monogyna Jacq.
+Eriobotrya japonica (Thunb.) Lindl.
+Fragaria chiloensis (L.) Mill.
+Fragaria vesca L.
+Geum quellyon Sweet
+Hesperomeles ferruginea (Pers.) Benth.
+Hesperomeles goudotiana (Decne.) Killip
+Hesperomeles nitida Killip
+Hesperomeles obtusifolia (Pers.) Lindl.
+Hesperomeles pachyphylla (Pittier) Killip
+Holodiscus argenteus (L.f.) Maxim.
+Lachemilla aphanoides (L.f.) Rothm.
+Lachemilla fulvescens (L.M.Perry) Rothm.
+Lachemilla galioides (Benth.) Rothm.
+Lachemilla hirta (L.M.Perry) Rothm.
+Lachemilla hispidula (L.M.Perry) Rothm.
+Lachemilla holosericea (L.M.Perry) Rothm.
+Lachemilla killipii Rothm.
+Lachemilla mandoniana (Wedd.) Rothm.
+Lachemilla moritziana Dammer
+Lachemilla mutisii (Rothm.) Rothm.
+Lachemilla nivalis (Kunth) Rothm.
+Lachemilla orbiculata (Ruiz & Pav.) Rydb.
+Lachemilla pectinata (Kunth) Rothm.
+Lachemilla purdiei (L.M.Perry) Rothm.
+Malus pumila Mill.
+Margyricarpus pinnatus (Lam.) Kuntze
+Polylepis quadrijuga Bitter
+Potentilla heterosepala Fritsch
+Potentilla indica (Andr.) Wolf
+Prunus buxifolia Koehne
+Prunus domestica L.
+Prunus falcata Cuatrec.
+Prunus guanaiensis Rusby
+Prunus integrifolia (C.Presl) Walp.
+Prunus opaca (Benth.) Walp.
+Prunus persica (L.) Batsch
+Prunus serotina Ehrh.
+Prunus subcorymbosa Koehne
+Pyracantha angustifolia (Franch.) C.K.Schneid.
+Pyracantha coccinea M.Roem.
+Pyracantha crenulata (D. Don) M. Roem.
+Pyracantha fortuneana (Maxim.) H.L. Li
+Pyrus communis L.
+Rhaphiolepis indica (L.) Lindl. ex Ker
+Rhaphiolepis integerrima Hook. & Arn.
+Rhaphiolepis umbellata (Thunb.) Makino
+Rosa chinensis Jacq.
+Rosa orientalis A.Dupont ex Ser.
+Rubus acanthophyllos Focke
+Rubus adenotrichos Schltdl.
+Rubus alpinus Macfad.
+Rubus bogotensis Kunth
+Rubus choachiensis A.Berger
+Rubus coriaceus Poir.
+Rubus eriocarpus Liebm.
+Rubus gachetensis A.Berger
+Rubus glaucus Benth.
+Rubus guyanensis Focke
+Rubus idaeus L.
+Rubus loxensis Benth.
+Rubus megalococcus Focke
+Rubus niveus Thunb.
+Rubus nubigenus Kunth
+Rubus robustus C.Presl.
+Rubus rubiginosus P.J.Müll.
+Rubus urticifolius Poir.
+Sanguisorba minor Scop.
+Spiraea cantoniensis Lour.
+Arcytophyllum muticum (Wedd.) Standl.
+Arcytophyllum nitidum (Kunth) Schltdl.
+Cinchona pubescens Vahl
+Coffea arabica L.
+Faramea flavicans (Humb. & Bonpl. ex Roem. & Schult.) Standl.
+Galianthe bogotensis (Kunth) E.L.Cabral & Bacigalupo
+Galium ascendens Willd. ex Spreng.
+Galium canescens Kunth
+Galium corymbosum Ruiz & Pav.
+Galium hypocarpium (L.) Endl. ex Griseb.
+Gardenia jasminoides J.Ellis
+Guettarda crispiflora Vahl
+Hamelia patens Jacq.
+Ladenbergia macrocarpa (Vahl) Klotzsch
+Manettia lobbii Wernham
+Nertera granadensis (Mutis ex L.f.) Druce
+Notopleura macrophylla (Ruiz & Pav.) C.M.Taylor
+Palicourea amethystina (Ruiz & Pav.) DC.
+Palicourea angustifolia Kunth
+Palicourea apicata Kunth
+Palicourea aschersonianoides (Wernham) Steyerm.
+Palicourea boqueronensis (Wernham) C.M. taylor
+Palicourea demissa Standl.
+Palicourea paniculata (L. f.) P.L.R. Moraes & C.M. Taylor
+Palicourea sulphurea (Ruiz & Pav.) DC.
+Palicourea thyrsiflora (Ruiz & Pav.) DC.
+Posoqueria latifolia (Rudge) Roem. & Schult.
+Psychotria boqueronensis Wernham
+Randia armata (Sw.) DC.
+Spermacoce capitata Ruiz & Pav.
+Spermacoce chartensis (Standl.) Govaerts
+Tocoyena williamsii Standl.
+Casimiroa edulis La Llave
+Choisya ternata Kunth
+Citrus aurantiifolia  (Christm.) Swingle
+Citrus aurantium L.
+Citrus limon (L.) Osbeck
+Citrus reticulata Blanco
+Citrus sinensis (L.) Osbeck
+Coleonema album (Thunb.) Bartl. & H.L.Wendl.
+Diosma recurva Cham
+Ruta chalepensis L.
+Ruta graveolens L.
+Meliosma bogotana Steyerm.
+Meliosma frondosa Cuatrec. & Idrobo
+Abatia parviflora Ruiz & Pav.
+Azara microphylla Hook.f.
+Azara serrata Ruiz & Pav.
+Banara guianensis Aubl.
+Casearia tachirensis Steyerm.
+Hasseltia floribunda Kunth
+Populus alba L.
+Populus nigra L.
+Salix babylonica L.
+Salix humboldtiana Willd.
+Salix purpurea L.
+Salix viminalis L.
+Xylosma spiculifera (Tul.) Triana & Planch.
+Azolla filiculoides Lam.
+Dendrophthora avenia (Trel.) Kuijt
+Dendrophthora clavata (Benth.) Urb.
+Dendrophthora eichleriana Urb.
+Dendrophthora lindeniana Tiegh.
+Dendrophthora lueri Kuijt
+Dendrophthora obliqua (C.Presl) Wiens
+Dendrophthora pearcei (Rusby) Kuijt
+Dendrophthora squamigera (Benth.) Benth. & Hook.f.
+Phoradendron nervosum Oliv.
+Phoradendron piperoides (Kunth) Trel.
+Acer negundo L.
+Allophylus goudotii (Triana & Planch.) Radlk.
+Allophylus myrianthus Radlk.
+Billia rosea (Planch. & Linden) C.Ulloa & P.Jørg.
+Cupania americana L.
+Dodonaea viscosa (L.) Jacq.
+Llagunoa nitida Ruiz & Pav.
+Bergenia crassifolia (L.) Fritsch
+Bergenia stracheyi (Hook.f. & Thomson) Engl.
+Micranthes japonica (Boissieu) S.Akiyama & H.Ohba
+Saxifraga stolonifera Curtis
+Tolmiea menziesii (Pursh) Torr. & A.Gray
+Alonsoa meridionalis (L.f.) Kuntze
+Buddleja americana L.
+Buddleja bullata Kunth
+Buddleja davidii Franch.
+Buddleja incana Ruiz & Pav.
+Buddleja lindenii Benth.
+Limosella australis R.Br.
+Verbascum virgatum Stokes
+Siparuna mutisii (Kunth) A.DC.
+Siparuna thecaphora (Poepp. & Endl.) A.DC.
+Smilax cuspidata  Duhamel
+Smilax domingensis Willd.
+Smilax spinosa Mill.
+Smilax tomentosa Kunth
+Acnistus arborescens (L.) Schltdl.
+Browallia americana L.
+Brugmansia × candida Pers.
+Brugmansia arborea (L.) Lagerh.
+Brugmansia aurea Lagerh.
+Brugmansia sanguinea (Ruiz & Pav.) D.Don
+Brunfelsia australis Benth.
+Brunfelsia pauciflora (Cham. & Schltdl.) Benth.
+Capsicum annuum L.
+Capsicum pubescens Ruiz & Pav.
+Cestrum buxifolium Kunth
+Cestrum cuneatum Francey
+Cestrum cuneifolium Francey
+Cestrum elegans (Neumann) Schltdl.
+Cestrum humboldtii Francey
+Cestrum lindenii Dunal
+Cestrum mariquitense Kunth
+Cestrum mutisii Roem. & Schult.
+Cestrum nocturnum L.
+Cestrum ochraceum Francey
+Cestrum olivaceum Francey
+Cestrum petiolare Kunth
+Cestrum tomentosum L.f.
+Datura metel L.
+Datura stramonium L.
+Iochroma fuchsioides (Bonpl.) Miers
+Iochroma gesnerioides (Kunth) Miers
+Iochroma grandiflorum Benth.
+Jaltomata sinuosa (Miers) Mione
+Jaltomata viridiflora (Kunth) M.Nee & Mione
+Lycianthes acutifolia (Ruiz & Pav.) Bitter
+Lycianthes lycioides (L.) Hassl.
+Lycianthes radiata (Sendtn.) Bitter
+Nicandra physalodes (L.) Gaertn.
+Nicotiana alata Link & Otto
+Nicotiana rustica L.
+Nicotiana tabacum L.
+Nierembergia repens Ruiz & Pav.
+Petunia x hybrida (Hook.) Vilm.
+Physalis peruviana L.
+Salpichroa tristis Miers
+Saracha nigribaccata J. M. H. Shaw
+Saracha quitensis (Hook.) Miers
+Schultesianthus coriaceus (Kuntze) Hunz.
+Sessea corymbiflora Rich.Taylor & R.Phillips
+Solandra maxima (Dunal) P.S.Green
+Solanum americanum Mill.
+Solanum andreanum  Baker
+Solanum aphyodendron S. Knapp
+Solanum asperolanatum Ruiz & Pav.
+Solanum betaceum Cav.
+Solanum brevifolium Dunal
+Solanum callianthum C.V.Morton
+Solanum caripense Dunal
+Solanum colombianum Dunal
+Solanum cornifolium Dunal
+Solanum crinitipes Dunal
+Solanum heiseri G.J.Anderson
+Solanum interandinum Bitter
+Solanum jamaicense Mill.
+Solanum juglandifolium Dunal
+Solanum laurifrons Bitter
+Solanum laxum Spreng.
+Solanum lycopersicum L.
+Solanum macrotonum Bitter
+Solanum marginatum L.f.
+Solanum muricatum Aiton
+Solanum nigrescens M.Martens & Galeotti
+Solanum nigrum L.
+Solanum oblongifolium Dunal
+Solanum ochranthum Dunal
+Solanum ovalifolium Dunal
+Solanum pseudocapsicum L.
+Solanum psychotrioides Dunal
+Solanum quitoense Lam.
+Solanum stellatiglandulosum Bitter
+Solanum stenophyllum Dunal
+Solanum tuberosum L.
+Streptosolen jamesonii (Benth.) Miers
+Styrax davillifolius Perkins
+Styrax macrocalyx Perkins
+Styrax trichocalyx Perkins
+Symplocos cundinamarcensis B.Ståhl
+Symplocos flosfragrans Chaparro
+Symplocos mucronata Humb. & Bonpl.
+Symplocos rigidissima Brand
+Symplocos theiformis (L.f.) Oken
+Camellia japonica L.
+Gordonia fruticosa (Schrad.) H.Keng
+Daphnopsis caracasana Meisn.
+Harperocallis flava McDaniel
+Harperocallis sessiliflora (Hook.) L.M.Campb. & Dorr
+Tropaeolum majus L.
+Tropaeolum peregrinum L.
+Tropaeolum pubescens Kunth
+Tropaeolum smithii DC.
+Tropaeolum trilobum Turcz.
+Tropaeolum tuberosum Ruiz & Pav.
+Typha angustifolia L.
+Typha domingensis Pers.
+Typha latifolia L.
+Ulmus carpinifolia Gled.
+Boehmeria celtidifolia Kunth
+Coussapoa villosa Poepp. & Endl.
+Parietaria debilis G. Forst.
+Parietaria micrantha Ledeb.
+Phenax rugosus (Poir.) Wedd.
+Pilea alsinifolia Wedd.
+Pilea cadierei Gagnep. & Guillaumin
+Pilea dauciodora Wedd.
+Pilea fallax Wedd.
+Pilea goudotiana Wedd.
+Pilea lindeniana Wedd.
+Pilea melastomoides (Poir.) Wedd.
+Pilea microphylla (L.) Liebm.
+Pilea ovalis Griseb.
+Pilea parietaria (L.) Blume
+Pilea pubescens Liebm.
+Pilea smithii Killip
+Soleirolia soleirolii (Req.) Dandy
+Urera simplex Wedd.
+Urtica dioica L.
+Urtica leptophylla Kunth
+Urtica urens L.
+Aloysia citriodora Palau
+Citharexylum bullatum Moldenke
+Citharexylum dryanderae Moldenke
+Citharexylum montanum Moldenke
+Citharexylum subflavescens S.F.Blake
+Citharexylum sulcatum Moldenke
+Duranta erecta L.
+Duranta mandonii Moldenke
+Duranta mutisii L.f.
+Duranta obtusifolia Kunth
+Glandularia × hortulanus
+Lantana camara L.
+Lantana canescens Kunth
+Lantana colombiana López-Pal.
+Lantana fucata Lindl.
+Lantana involucrata L.
+Lantana lopez-palacii Moldenke
+Lantana montevidensis (Spreng.) Briq.
+Lantana rugulosa Kunth
+Lippia alba (Mill.) Britton & P.Wilson
+Lippia dulcis Trevir.
+Lippia hirsuta L.f.
+Lippia origanoides Kunth
+Lippia schlimii Turcz.
+Lippia turbinata Griseb.
+Verbena hispida Ruiz & Pav.
+Verbena hybrida Groenl. & Rumpler
+Verbena litoralis Kunth
+Verbena officinalis L.
+Verbena valerianoides Kunth
+Sambucus canadensis L.
+Sambucus nigra L.
+Sambucus peruviana Kunth
+Viburnum anabaptista Graebn.
+Viburnum lasiophyllum Benth.
+Viburnum pichinchense Benth.
+Viburnum subsessile Killip & A.C.Sm.
+Viburnum suratense Killip & A.C.Sm.
+Viburnum tinoides L.f.
+Viburnum toronis Killip & A.C.Sm.
+Viburnum triphyllum Benth.
+Anchietea frangulifolia (Kunth) Melch.
+Pombalia attenuata (Willd.) Paula-Souza
+Pombalia parviflora (L.f.) Paula-Souza
+Pombalia prunifolia (Willd.) Paula-Souza
+Viola arvensis Murray
+Viola humilis Kunth
+Viola odorata L.
+Viola scandens Schult.
+Viola stipularis Sw.
+Viola tenerrima Wiesb. ex Nyman
+Viola tricolor L.
+Viola veronicifolia Planch. & Linden
+Cissus obliqua Ruiz & Pav.
+Drimys granadensis L.f.
+Eccremis coarctata (Ruiz & Pav.) Baker
+Xyris subulata Ruiz & Pav.
+Hedychium coronarium J.Koenig
+Renealmia alpinia (Rottb.) Maas
+Araucaria angustifolia (Bertol.) Kuntze
+Araucaria araucana (Molina) K.Koch
+Araucaria columnaris (J.R.Forst.) Hook.
+Araucaria heterophylla (Salisb.) Franco
+Casuarina cunninghamiana Miq.
+Casuarina equisetifolia L.
+Callitropsis macrocarpa (Gordon) D.P.Little
+Chamaecyparis lawsoniana (A.Murray) Parl.
+Cryptomeria japonica (L.f.) D.Don
+Cupressus sempervirens L.
+Hesperocyparis lusitanica (Mill.) Bartel
+Platycladus orientalis (L.) Franco
+Sequoia sempervirens (D.Don) Endl.
+Cycas revoluta Thunb.
+Pinus ayacahuite Ehrenb. ex Schltdl.
+Pinus montezumae Lamb.
+Pinus mugo Turra
+Pinus patula Schltdl. & Cham.
+Pinus pinaster Aiton
+Pinus radiata D.Don
+Podocarpus angustifolius Griseb.
+Podocarpus oleifolius D.Don
+Prumnopitys harmsiana (Pilg.) de Laub.
+Prumnopitys montana (Willd.) de Laub.
+Retrophyllum rospigliosii (Pilg.) C.N.Page
+Isoetes andicola (Amstutz) L.D.Gómez
+Isoetes andina Hook.
+Isoetes boyacensis H.P.Fuchs
+Isoetes karstenii A.Braun
+Isoetes killipii C.V.Morton
+Isoetes lechleri Mett.
+Isoetes palmeri H.P.Fuchs
+Isoetes precocia R.L. Small & Hickey
+Austrolycopodium magellanicum (P.Beauv.) Holub
+Diphasiastrum thyoides (Willd.) Holub
+Diphasium jussiaei (Poir.) Rothm.
+Lycopodium clavatum L.
+Lycopodium complanatum L.
+Palhinhaea cernua (L.) Vasc. & Franco
+Palhinhaea pendulina (Hook.) Holub
+Phlegmariurus acifolius (Rolleri) B.Øllg.
+Phlegmariurus amentaceus (B.Øllg.) B.Øllg.
+Phlegmariurus aqualupianus (Spring) B.Øllg.
+Phlegmariurus attenuatus (Spring) B.Øllg.
+Phlegmariurus brevifolius (Grev. & Hook.) B.Øllg.
+Phlegmariurus capellae (Herter) B.Øllg.
+Phlegmariurus crassus (Willd.) B.Øllg.
+Phlegmariurus cruentus (Spring) B.Øllg.
+Phlegmariurus eversus (Poir.) B.Øllg.
+Phlegmariurus hippurideus (Christ) B.Øllg.
+Phlegmariurus hohenackeri (Herter) B.Øllg.
+Phlegmariurus hypogaeus (B.Øllg.) B.Øllg.
+Phlegmariurus ocananus (Herter) B.Øllg.
+Phlegmariurus reflexus (Lam.) B.Øllg.
+Phlegmariurus riobambensis (Nessel) B.Øllg.
+Phlegmariurus rosenstockianus (Herter) B.Øllg.
+Phlegmariurus rufescens (Hook.) B.Øllg.
+Phlegmariurus saururus (Lam.) B.Øllg.
+Phlegmariurus subulatus (Poir.) B.Øllg.
+Selaginella asperula Spring
+Selaginella cavifolia A.Braun
+Selaginella haematodes (Kunze) Spring
+Selaginella lindigii A.Braun
+Selaginella lychnuchus Spring
+Selaginella sellowii Hieron.
+Selaginella silvestris Aspl.
+Botrychium virginianum (L.) Sw.
+Asplenium haenkeanum (C. Presl) Hieron.
+Blechnum auratum (Fée) R.M.Tryon & Stolze
+Blechnum cordatum (Desv.) Hieron.
+Blechnum loxense (Kunth) Hook. ex Salomon
+Blechnum schomburgkii (Klotzsch) C.Chr.
+Blechnum violaceum (Fée) C.Chr.
+Cyathea frondosa H. Karst.
+Cyathea patens hort. ex Houlston & Moore
+Cyathea straminea (A. Gepp) Alderw.
+Elaphoglossum glabellum J. Sm.
+Elaphoglossum piloselloides (C. Presl) T. Moore
+Megalastrum macrotheca (Fée) ARSm. & RCMoran
+Sticherus simplex (Desv.) Ching
+Marsilea deflexa A. Braun
+Campyloneurum angustipaleatum (Alston) M. Mey. ex Lellinger
+Melpomene sodiroi (Christ & Rosenst.) A.R. Sm. & R.C. Moran
+Phlebodium pseudoaureum (Cav.) Lellinger
+Polypodium murorum  Hook.
+Serpocaulon subandinum (Sodiro) A.R. Sm.
+Terpsichore lehmanniana (Hieron.) A.R. Sm.
+Cheilanthes bonariensis (Willd.) Proctor
+Eriosorus cheilanthoides (Sw.) A.F.Tryon
+Eriosorus flexuosus (Kunth) Copel.
+Eriosorus hirsutulus (Mett.) A.F. Tryon
+Gaga angustifolia (Kunth) Fay W. Li & Windham
+Pityrogramma ebenea (L.) Proctor
+Pteris tremula R. Br.
+Radiovittaria ruiziana (Fée) E.H.Crane
+Thelypteris elegantula (Sodiro) Alston
+Thelypteris euchlora (Sodiro) C.F. Reed
+Thelypteris oligocarpa (Humb. & Bonpl. ex Willd.) Ching
+Thelypteris rudis (Kunze) Proctor
+Thelypteris supina (Sodiro) A.R. Sm.
+Banksia media R. Br.
+Banksia serrata L. f.
+Asplenium alatum Humb. & Bonpl. ex Willd.
+Asplenium auritum Sw.
+Asplenium castaneum Schltdl. & Cham.
+Asplenium cirrhatum Rich. ex Willd.
+Asplenium cladolepton Fée
+Asplenium cuspidatum Lam.
+Asplenium dimidiatum Sw.
+Asplenium dissectum Sw.
+Asplenium flabellulatum Kunze
+Asplenium harpeodes Kunze
+Asplenium monanthes L.
+Asplenium myriophyllum (Sw.) C.Presl
+Asplenium peruvianum Desv.
+Asplenium praemorsum Sw.
+Asplenium pteropus Kaulf.
+Asplenium radicans L.
+Asplenium resiliens Kunze
+Asplenium serra Langsd. & Fisch.
+Asplenium sessilifolium Desv.
+Athyrium asplenioides Desv.
+Athyrium dombeyi Desv.
+Athyrium filix-femina (L.) Roth
+Diplazium bogotense Hieron.
+Austroblechnum leyboldtianum (Phil.) Gasper & V.A.O.Dittrich
+Blechnum appendiculatum Willd.
+Blechnum gracile Kaulf.
+Blechnum occidentale L.
+Lomaridium binervatum (Poir.) Gasper & V.A.O.Dittrich
+Lomaridium ensiforme (Liebm.) Gasper & V.A.O.Dittrich
+Lomariocycas aurata (Fée) Gasper & A.R. Sm.
+Lomariocycas columbiensis (Hieron.) Gasper & A.R.Sm.
+Lomariocycas schomburgkii (Kl.) Gasper & A.R.Sm.
+Parablechnum cordatum (Desv.) Gasper & Salino
+Parablechnum falciforme (Liebm.) Gasper & Salino
+Parablechnum lechleri (Mett.) Gasper & Salino
+Parablechnum loxense (Kunth) Gasper & Salino
+Parablechnum ryanii (Kaulf.) Gasper & Salino
+Culcita coniifolia (Hook.) Maxon
+Alsophila incana (H.Karst.) D.S.Conant
+Cyathea caracasana (Klotzsch) Domin
+Cyathea conjugata (Hook.) Domin
+Cyathea divergens Kunze
+Cyathea frigida (H.Karst.) Domin
+Cyathea pallescens (Sodiro) Domin
+Cyathea squamipes H.Karst.
+Cystopteris fragilis (L.) Bernh.
+Davallia canariensis (L.) Sm.
+Histiopteris incisa (Thunb.) J.Sm.
+Hypolepis bogotensis H.Karst.
+Hypolepis stuebelii Hieron.
+Hypolepis viscosa H.Karst.
+Pteridium aquilinum (L.) Kuhn
+Pteridium arachnoideum (Kaulf.) Maxon
+Pteridium caudatum (L.) Maxon
+Dicksonia sellowiana Hook.
+Lophosoria quadripinnata (J.F.Gmel.) C.Chr.
+Arachniodes denticulata (Sw.) Ching
+Arachniodes leucostegioides (C.Chr.) Ching
+Dryopteris patula (Sw.) Underw.
+Dryopteris wallichiana (Spreng.) Hyl.
+Elaphoglossum affine (M.Martens & Galeotti) T.Moore
+Elaphoglossum andicola (Fée) T.Moore
+Elaphoglossum antioquianum Hieron.
+Elaphoglossum buchtienii Rosenst.
+Elaphoglossum castaneum (Baker) Diels
+Elaphoglossum curvans (Kunze) A.Rojas
+Elaphoglossum cuspidatum (Willd.) T.Moore
+Elaphoglossum deltoideum (Sodiro) Christ
+Elaphoglossum deorsum (H.Karst.) Vareschi
+Elaphoglossum engelii (H.Karst.) Christ
+Elaphoglossum erinaceum (Fée) T.Moore
+Elaphoglossum eximium (Mett.) Christ
+Elaphoglossum gayanum (Fée) T.Moore
+Elaphoglossum hartwegii (Fée) T.Moore
+Elaphoglossum hassleri C.Chr.
+Elaphoglossum haynaldii (Sodiro) I.Losch
+Elaphoglossum herminieri (Fée) T.Moore
+Elaphoglossum huacsaro (Ruiz) Christ
+Elaphoglossum lehmannianum Christ
+Elaphoglossum leptophlebium (Baker) C.Chr.
+Elaphoglossum lindenii (Fée) T.Moore
+Elaphoglossum lingua (C.Presl) Brack.
+Elaphoglossum lloense (Hook.) T.Moore
+Elaphoglossum longifolium (C.Presl) J.Sm.
+Elaphoglossum mathewsii (Fée) T.Moore
+Elaphoglossum minutum (Fée) T.Moore
+Elaphoglossum muscosum (Sw.) T.Moore
+Elaphoglossum novogranatense A.Vasco
+Elaphoglossum oreophilum A.Vasco
+Elaphoglossum paleaceum (Hook. & Grev.) Sledge
+Elaphoglossum petiolosum (Desv.) T.Moore
+Elaphoglossum plicatum (Cav.) C.Chr.
+Elaphoglossum rosenstockii Rosenst.
+Elaphoglossum russelliae Mickel
+Elaphoglossum sodiroi (Baker) Christ
+Elaphoglossum sporadolepis (Kuhn) T.Moore
+Elaphoglossum squamipes (Hook.) T.Moore
+Elaphoglossum tenuiculum (Fée) C.Chr.
+Elaphoglossum tenuifolium (Liebm.) T.Moore
+Elaphoglossum unduaviense Rosenst.
+Elaphoglossum vagans (Mett.) Hieron.
+Polystichum cochleatum (Klotzsch) Hieron.
+Polystichum dubium (H.Karst.) Diels
+Polystichum lehmannii Hieron.
+Polystichum montevidense (Spreng.) Rosenst.
+Polystichum muricatum (L.) Fée
+Polystichum orbiculatum (Desv.) J.Rémy & Fée
+Polystichum platyphyllum (Willd.) C.Presl
+Rumohra adiantiformis (G.Forst.) Ching
+Equisetum bogotense Kunth
+Equisetum giganteum L.
+Equisetum hyemale L.
+Sticherus arachnoideus E.Ø.Andersen & B.Øllg.
+Sticherus bifidus (Willd.) Ching
+Sticherus nudus (Reichardt) Nakai
+Sticherus revolutus (Kunth) Ching
+Sticherus rubiginosus (Mett.) Nakai
+Hymenophyllum axillare Sw.
+Hymenophyllum elegans Spreng.
+Hymenophyllum fucoides (Sw.) Sw.
+Hymenophyllum hemipteron Rosenst.
+Hymenophyllum karstenianum J.W.Sturm
+Hymenophyllum microcarpum Desv.
+Hymenophyllum myriocarpum Hook.
+Hymenophyllum plumosum Kaulf.
+Hymenophyllum polyanthos Sw.
+Hymenophyllum pulchellum Schltdl. & Cham.
+Hymenophyllum subrigidum Christ
+Hymenophyllum tomentosum Kunze
+Hymenophyllum trapezoidale Liebm.
+Hymenophyllum trichophyllum Kunth
+Polyphlebium angustatum (Carmich.) Ebihara & Dubuisson
+Trichomanes crinitum Sw.
+Eupodium laeve (Sm.) Murdock
+Eupodium pittieri (Maxon) Christenh.
+Marsilea ancylopoda A.Braun
+Marsilea mollis B.L.Rob. & Fernald
+Nephrolepis cordifolia (L.) C.Presl
+Nephrolepis exaltata (L.) Schott
+Nephrolepis pectinata (Willd.) Schott
+Botrypus virginianus (L.) Michx.
+Ophioglossum crotalophoroides Walter
+Ophioglossum reticulatum L.
+Plagiogyria pectinata (Liebm.) Lellinger
+Alansmia lanigera (Desv.) Moguel & M.Kessler
+Alansmia senilis (Fée) Moguel & M.Kessler
+Alansmia variabilis (Mett. ex Kuhn) Moguel & M. Kessler
+Ascogrammitis colombiensis Sundue
+Campyloneurum amphostenon (Klotzsch) Fée
+Campyloneurum angustifolium (Sw.) Fée
+Campyloneurum brevifolium Link
+Campyloneurum densifolium (Hieron.) Lellinger
+Campyloneurum magnificum T.Moore
+Campyloneurum repens (Aubl.) C.Presl
+Ceradenia capillaris (Desv.) L.E.Bishop
+Ceradenia intonsa León-Parra & J.Mostacero
+Ceradenia meridensis (Klotzsch) L.E.Bishop
+Galactodenia subscabra (Klotzsch) Sundue & Labiak
+Grammitis paramicola L.E.Bishop
+Lellingeria apiculata (Kunze ex Kl.) A.R.Sm. & R.C.Moran
+Lellingeria humilis (Mett.) A.R.Sm. & R.C.Moran
+Melpomene firma (J.Sm.) A.R.Sm. & R.C.Moran
+Melpomene flabelliformis (Poir.) A.R.Sm. & R.C.Moran
+Melpomene moniliformis (Sw.) A.R.Sm. & R.C.Moran
+Melpomene pilosissima (M.Martens & Galeotti) A.R.Sm. & R.C.Moran
+Melpomene xiphopteroides (Liebm.) A.R.Sm. & R.C.Moran
+Mycopteris semihirsuta (Klotzsch) Sundue
+Mycopteris subtilis (Kunze ex Klotzsch) Sundue
+Niphidium albopunctatissimum Lellinger
+Niphidium crassifolium (L.) Lellinger
+Niphidium mortonianum Lellinger
+Pecluma camptophyllaria (Fée) M.G.Price
+Pecluma divaricata (E.Fourn.) Mickel & Beitel
+Pecluma eurybasis (C.Chr.) M.G.Price
+Pecluma paradiseae (Langsd. & Fisch.) M.G.Price
+Pecluma pectinata (L.) M.G.Price
+Pecluma pectinatiformis (Lindm.) M.G. Price
+Pecluma ptilotos (Kunze) M.G.Price
+Pecluma robusta (Fée) M.Kessler & A.R.Sm.
+Phlebodium aureum (L.) J.Sm.
+Platycerium bifurcatum (Cav.) C.Chr.
+Pleopeltis buchtienii (Christ & Rosenst.) A.R.Sm.
+Pleopeltis macrocarpa (Willd.) Kaulf.
+Pleopeltis monosora (Desv.) A.R.Sm.
+Pleopeltis murora (Hook.) A.R.Sm. & Tejero
+Pleopeltis orientalis Sundue
+Pleopeltis polypodioides (L.) E.G.Andrews & Windham
+Pleopeltis remota (Desv.) A.R.Sm.
+Pleopeltis thyssanolepis (Klotzsch) E.G.Andrews & Windham
+Serpocaulon eleutherophlebium (Fée) A.R.Sm.
+Serpocaulon fraxinifolium (Jacq.) A.R.Sm.
+Serpocaulon funckii (Mett.) A.R.Sm.
+Serpocaulon lasiopus (Klotzsch) A.R.Sm.
+Serpocaulon levigatum (Cav.) A.R.Sm.
+Serpocaulon loriceum (L.) A.R.Sm.
+Serpocaulon loriciforme (Rosenst.) A.R.Sm.
+Serpocaulon semipinnatifidum (Fée) A.R.Sm.
+Serpocaulon sessilifolium (Desv.) A.R.Sm.
+Serpocaulon triseriale (Sw.) A.R.Sm.
+Stenogrammitis jamesonii (Hook.) Labiak
+Stenogrammitis myosuroides (Sw.) Labiak
+Zygophlebia mathewsii (Mett.) L.E.Bishop
+Adiantum capillus-veneris L.
+Adiantum concinnum Humb. & Bonpl. ex Willd.
+Adiantum patens Willd.
+Adiantum petiolatum Desv.
+Adiantum poiretii Wikstr.
+Adiantum raddianum C.Presl
+Gaga marginata (Kunth) F.W.Li & Windham
+Myriopteris aurea (Poir.) Grusz & Windham
+Myriopteris lendigera (Cav.) J.Sm.
+Myriopteris myriophylla (Desv.) Sm.
+Pellaea ternifolia (Cav.) Link
+Pityrogramma chrysoconia (Desv.) Domin
+Pityrogramma tartarea (Cav.) Maxon
+Pteris cretica L.
+Pteris deflexa Link
+Pteris livida Mett.
+Pteris longipetiolulata Lellinger
+Pteris muricata Hook.
+Pteris podophylla Sw.
+Radiovittaria gardneriana (Fée) E.H.Crane
+Radiovittaria moritziana (Mett.) E.H.Crane
+Vittaria graminifolia Kaulf.
+Vittaria lineata (L.) Sm.
+Jamesonia blepharum A.F. Tryon
+Jamesonia bogotensis × Jamesonia goudotii
+Jamesonia bogotensis H.Karst.
+Jamesonia cheilanthoides (Sw.) Christenh.
+Jamesonia flexuosa (Kunth) Christenh.
+Jamesonia goudotii (Hieron.) C. Chr.
+Jamesonia hirsutula (Mett.) Christenh.
+Jamesonia imbricata (Sw.) Hook. & Grev.
+Jamesonia novogranatensis (A.F. Tryon) Christenh.
+Jamesonia robusta H.Karst.
+Jamesonia rotundifolia Fée
+Amauropelta brausei (Hieron.) A.R.Sm.
+Amauropelta cheilanthoides (Kunze) A. & D.Löve
+Amauropelta deflexa (C.Presl) A. & D.Löve
+Amauropelta elegantula (Sodiro) Salino & T.E.Almeida
+Amauropelta euchlora (Sodiro) A.R.Sm.
+Amauropelta minutula (C.V.Morton) Salino & T.E.Almeida
+Amauropelta opposita (M.Vahl) Pic.Serm.
+Amauropelta pilosula (Kl. & H.Karst. ex Mett.) A. & D.Löve
+Amauropelta pusilla (Mett.) A.R.Sm.
+Amauropelta riopardensis (Rosenst.) comb. ined.
+Amauropelta rosenstockii (C.Chr.) Salino & T.E.Almeida
+Amauropelta rudis (Kunze) Pic.Serm.
+Amauropelta supina (Sodiro) Salino & T.E.Almeida
+Amauropelta thomsonii (Jenm.) Pic.Serm.
+Christella dentata (Forsk.) Brownsey & Jermy
+Woodsia montevidensis (Spreng.) Hieron.
