@@ -216,17 +216,17 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--names",
-        default="data/nombres_cientificos.txt",
+        default="data/jbb_nombres_cientificos.txt",
         help="Output path for extracted names",
     )
     parser.add_argument(
         "--results",
-        default="data/gnverifier_results.csv",
+        default="data/jbb_gnverifier_results.csv",
         help="Output path for gnverifier results",
     )
     parser.add_argument(
         "--merged",
-        default="data/gnverifier_merged.csv",
+        default="data/jbb_gnverifier_merged.csv",
         help="Output path for merged results",
     )
     parser.add_argument(
