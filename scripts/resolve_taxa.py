@@ -130,7 +130,16 @@ def parse_sheet_rows(xlsx_path: Path) -> tuple[list[str], list[dict[str, str]]]:
             if any(row_data.values()):
                 rows.append(row_data)
 
-    return headers, rows
+    deduped_rows: list[dict[str, str]] = []
+    seen: set[tuple[str, ...]] = set()
+    for row in rows:
+        key = tuple(row.get(header, "") for header in headers)
+        if key in seen:
+            continue
+        seen.add(key)
+        deduped_rows.append(row)
+
+    return headers, deduped_rows
 
 
 def extract_column_values(rows: list[dict[str, str]], header_name: str) -> list[str]:
